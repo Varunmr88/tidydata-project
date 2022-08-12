@@ -1,7 +1,7 @@
 
 
 
- 
+
 
 
 
@@ -64,15 +64,15 @@
 <script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-zptz5tdblkgFs+y5Z1XnrAJSGNOcP8dvDMbWaQ5ElKww6NF9mWdBZhacJKDXC9l2ULsC7pimUxRlrE+Oz+Au5A==" src="https://github.githubassets.com/assets/diffs-ce9b73e6d75b.js"></script>
   
 
-  <title>tidydata-project/README.md at main · Varunmr88/tidydata-project</title>
+  <title>GettingandCleaningData/README.md at master · uludagy/GettingandCleaningData</title>
 
 
 
     
 
-  <meta name="request-id" content="F621:1F99:5B6923:77B066:62F60EE6" data-pjax-transient="true" /><meta name="html-safe-nonce" content="f06098d940ffc5e868a63432904332bdc5b42223f7ec5103d01baf3a06bee4c2" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9WYXJ1bm1yODgvdGlkeWRhdGEtcHJvamVjdCIsInJlcXVlc3RfaWQiOiJGNjIxOjFGOTk6NUI2OTIzOjc3QjA2Njo2MkY2MEVFNiIsInZpc2l0b3JfaWQiOiIzMzYyODcxMDU5ODM1NjgwNjExIiwicmVnaW9uX2VkZ2UiOiJjZW50cmFsaW5kaWEiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-pjax-transient="true" /><meta name="visitor-hmac" content="6ccddeaf99df5bbee63fc7670d541f43bbb9fb7a5ecdbf0ef821f69fc2aaf171" data-pjax-transient="true" />
+  <meta name="request-id" content="E49D:15E5:52C11B:83B8BE:62F5F499" data-pjax-transient="true" /><meta name="html-safe-nonce" content="f06098d940ffc5e868a63432904332bdc5b42223f7ec5103d01baf3a06bee4c2" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS91bHVkYWd5L0dldHRpbmdhbmRDbGVhbmluZ0RhdGEiLCJyZXF1ZXN0X2lkIjoiRTQ5RDoxNUU1OjUyQzExQjo4M0I4QkU6NjJGNUY0OTkiLCJ2aXNpdG9yX2lkIjoiMzM2Mjg3MTA1OTgzNTY4MDYxMSIsInJlZ2lvbl9lZGdlIjoiY2VudHJhbGluZGlhIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-pjax-transient="true" /><meta name="visitor-hmac" content="df64c202521637e788a95d0b8705ab8b280e99e4acde4413f4a4d76b5fafdeb3" data-pjax-transient="true" />
 
-    <meta name="hovercard-subject-tag" content="repository:523744330" data-pjax-transient>
+    <meta name="hovercard-subject-tag" content="repository:73604117" data-pjax-transient>
 
 
   <meta name="github-keyboard-shortcuts" content="repository,source-code" data-pjax-transient="true" />
@@ -102,16 +102,16 @@
 
     <meta name="viewport" content="width=device-width">
     
-      <meta name="description" content="Course Project for Getting and Cleaning Data Coursera - tidydata-project/README.md at main · Varunmr88/tidydata-project">
+      <meta name="description" content="CourseProject. Contribute to uludagy/GettingandCleaningData development by creating an account on GitHub.">
       <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <meta property="fb:app_id" content="1401488693436528">
     <meta name="apple-itunes-app" content="app-id=1477376905" />
-      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/e2979a2616fd489b9baa6deae72b4bf603bb7463cd8643613f4807bc699e2068/Varunmr88/tidydata-project" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="tidydata-project/README.md at main · Varunmr88/tidydata-project" /><meta name="twitter:description" content="Course Project for Getting and Cleaning Data Coursera - tidydata-project/README.md at main · Varunmr88/tidydata-project" />
-      <meta property="og:image" content="https://opengraph.githubassets.com/e2979a2616fd489b9baa6deae72b4bf603bb7463cd8643613f4807bc699e2068/Varunmr88/tidydata-project" /><meta property="og:image:alt" content="Course Project for Getting and Cleaning Data Coursera - tidydata-project/README.md at main · Varunmr88/tidydata-project" /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="tidydata-project/README.md at main · Varunmr88/tidydata-project" /><meta property="og:url" content="https://github.com/Varunmr88/tidydata-project" /><meta property="og:description" content="Course Project for Getting and Cleaning Data Coursera - tidydata-project/README.md at main · Varunmr88/tidydata-project" />
+      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/9ce24de9f5145ed6dfd53f5e8fafac1312dc68982e127c8ca844c176dcd735f8/uludagy/GettingandCleaningData" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="GettingandCleaningData/README.md at master · uludagy/GettingandCleaningData" /><meta name="twitter:description" content="CourseProject. Contribute to uludagy/GettingandCleaningData development by creating an account on GitHub." />
+      <meta property="og:image" content="https://opengraph.githubassets.com/9ce24de9f5145ed6dfd53f5e8fafac1312dc68982e127c8ca844c176dcd735f8/uludagy/GettingandCleaningData" /><meta property="og:image:alt" content="CourseProject. Contribute to uludagy/GettingandCleaningData development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="GettingandCleaningData/README.md at master · uludagy/GettingandCleaningData" /><meta property="og:url" content="https://github.com/uludagy/GettingandCleaningData" /><meta property="og:description" content="CourseProject. Contribute to uludagy/GettingandCleaningData development by creating an account on GitHub." />
       
     <link rel="assets" href="https://github.githubassets.com/">
-      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/109435634/ws?session=eyJ2IjoiVjMiLCJ1IjoxMDk0MzU2MzQsInMiOjkzMTkxMTM4MCwiYyI6MjAzNjI4NTk1OCwidCI6MTY2MDI5Mjg0Mn0=--5bcb0c100b6e3198e427db7c2749b465b129118b1265a35e967776ec4a75c90f" data-refresh-url="/_alive" data-session-id="1c4e021e7093b14638aef510371398ab2ef61959a0d47afa14f6d8639117f5ae">
+      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/109435634/ws?session=eyJ2IjoiVjMiLCJ1IjoxMDk0MzU2MzQsInMiOjkzMTkxMTM4MCwiYyI6MTk3ODA2MTg4NywidCI6MTY2MDI4NjExN30=--f01df0c33d2bff7a88351eb9024670a03a3580adb451841b6ce5f9523cce60dd" data-refresh-url="/_alive" data-session-id="1c4e021e7093b14638aef510371398ab2ef61959a0d47afa14f6d8639117f5ae">
       <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-b87581f5816c.js">
 
 
@@ -134,13 +134,13 @@
   <meta name="turbo-cache-control" content="no-preview" data-pjax-transient="">
 
     
-  <meta name="go-import" content="github.com/Varunmr88/tidydata-project git https://github.com/Varunmr88/tidydata-project.git">
+  <meta name="go-import" content="github.com/uludagy/GettingandCleaningData git https://github.com/uludagy/GettingandCleaningData.git">
 
-  <meta name="octolytics-dimension-user_id" content="109435634" /><meta name="octolytics-dimension-user_login" content="Varunmr88" /><meta name="octolytics-dimension-repository_id" content="523744330" /><meta name="octolytics-dimension-repository_nwo" content="Varunmr88/tidydata-project" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="523744330" /><meta name="octolytics-dimension-repository_network_root_nwo" content="Varunmr88/tidydata-project" />
+  <meta name="octolytics-dimension-user_id" content="18398845" /><meta name="octolytics-dimension-user_login" content="uludagy" /><meta name="octolytics-dimension-repository_id" content="73604117" /><meta name="octolytics-dimension-repository_nwo" content="uludagy/GettingandCleaningData" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="73604117" /><meta name="octolytics-dimension-repository_network_root_nwo" content="uludagy/GettingandCleaningData" />
 
 
 
-    <link rel="canonical" href="https://github.com/Varunmr88/tidydata-project/blob/main/README.md" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/uludagy/GettingandCleaningData/blob/master/README.md" data-pjax-transient>
   <meta name="turbo-body-classes" content="logged-in env-production page-responsive page-blob">
 
 
@@ -210,7 +210,7 @@
 <div class="header-search flex-auto js-site-search position-relative flex-self-stretch flex-md-self-auto mb-3 mb-md-0 mr-0 mr-md-3 scoped-search site-scoped-search js-jump-to"
 >
   <div class="position-relative">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" role="search" aria-label="Site" data-scope-type="Repository" data-scope-id="523744330" data-scoped-search-url="/Varunmr88/tidydata-project/search" data-owner-scoped-search-url="/users/Varunmr88/search" data-unscoped-search-url="/search" data-turbo="false" action="/Varunmr88/tidydata-project/search" accept-charset="UTF-8" method="get">
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" role="search" aria-label="Site" data-scope-type="Repository" data-scope-id="73604117" data-scoped-search-url="/uludagy/GettingandCleaningData/search" data-owner-scoped-search-url="/users/uludagy/search" data-unscoped-search-url="/search" data-turbo="false" action="/uludagy/GettingandCleaningData/search" accept-charset="UTF-8" method="get">
       <label class="form-control input-sm header-search-wrapper p-0 js-chromeless-input-container header-search-wrapper-jump-to position-relative d-flex flex-justify-between flex-items-center">
         <input type="text"
           class="form-control input-sm header-search-input jump-to-field js-jump-to-field js-site-search-focus js-site-search-field is-clearable"
@@ -231,7 +231,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" value="QDmEpOnIWoKj38ouW7M3vC_wMNOyk3bHj5sOKjfWcWGbMlHv5rBmvMJzTbhByJRau2O6C36-SZGZQhVbo7TG8w" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+        <input type="hidden" value="LxnvHiglLTmsW7yNxt-NV-LbWUOutk7LlrghLAX_EGv0EjpVJ10RB833OxvcpC6xdkjTm2KbcZ2AYTpdkZ2n-Q" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -431,7 +431,7 @@
     <a class="js-selected-navigation-item Header-link mt-md-n3 mb-md-n3 py-2 py-md-3 mr-0 mr-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:explore" data-turbo="false" data-selected-links="/explore /trending /trending/developers /integrations /integrations/feature/code /integrations/feature/collaborate /integrations/feature/ship showcases showcases_search showcases_landing /explore" href="/explore">Explore</a>
 
 
-      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;Varunmr88&quot;,&quot;originating_url&quot;:&quot;https://github.com/Varunmr88/tidydata-project/blob/main/README.md&quot;,&quot;user_id&quot;:109435634}}" data-hydro-click-hmac="6bbe23d8a9376b84eb0bedfafc498b57c6703c43fd41fcf5844c5d8675a654ad" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
+      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;Varunmr88&quot;,&quot;originating_url&quot;:&quot;https://github.com/uludagy/GettingandCleaningData/blob/master/README.md&quot;,&quot;user_id&quot;:109435634}}" data-hydro-click-hmac="44787ac6a2b35f44f6c131f20503640d8587979c502d106f9aecc7efca7ca819" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
 
     <a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-turbo="false" href="/settings/profile">Settings</a>
 
@@ -439,7 +439,7 @@
       <img class="avatar avatar-user" loading="lazy" decoding="async" src="https://avatars.githubusercontent.com/u/109435634?s=40&amp;v=4" width="20" height="20" alt="@Varunmr88" />
       Varunmr88
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="bfag-wYhiOInr_TzxIarQ6uuLKOkRnzM9aVDljQfYuf6IFkNjPYrLV8NQsnXP54yotQnxLwyekenAhqJ51BxLg" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="19u_yODpf-3o8EaF8VaDF_SxF713MqZ1UyiG73MP1l1ADUY-aj7cIpBS8L_i77Zm_csc2m9GoP4Bj9_woEDFlA" />
       <button
         type="submit"
         class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade d-md-none btn-link d-block width-full text-left"
@@ -476,7 +476,7 @@
 <notification-indicator
   
   class=" js-socket-channel"
-  data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTA5NDM1NjM0IiwidCI6MTY2MDI5Mjg0Mn0=--b4c08851de4f3f4b8668f2b4e701d1765998f38d2abbe611254494bf989a1b51"
+  data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTA5NDM1NjM0IiwidCI6MTY2MDI4NjExN30=--1ba0e6a3152ca9cc2651b148d7ce04aae129a66243341521dc5d78e9c547421c"
   data-indicator-mode="none"
   data-tooltip-global="You have unread notifications"
   data-tooltip-unavailable="Notifications are unavailable at the moment."
@@ -630,7 +630,7 @@
   <details-dialog class="command-palette-details-dialog d-flex flex-column flex-justify-center height-fit" aria-label="command palette">
     <command-palette
       class="command-palette color-bg-default rounded-3 border color-shadow-small"
-      return-to=/Varunmr88/tidydata-project/blob/main/README.md
+      return-to=/uludagy/GettingandCleaningData/blob/master/README.md
       user-id="109435634"
       activation-hotkey="Mod+k,Mod+Alt+k"
       command-mode-hotkey="Mod+Shift+k"
@@ -733,23 +733,23 @@
         <command-palette-scope >
           <div data-target="command-palette-scope.placeholder" hidden class="color-fg-subtle">/&nbsp;&nbsp;<span class="text-semibold color-fg-default">...</span>&nbsp;&nbsp;/&nbsp;&nbsp;</div>
               <command-palette-token
-                data-text="Varunmr88"
-                data-id="U_kgDOBoXa8g"
+                data-text="uludagy"
+                data-id="MDQ6VXNlcjE4Mzk4ODQ1"
                 data-type="owner"
-                data-value="Varunmr88"
+                data-value="uludagy"
                 data-targets="command-palette-scope.tokens"
                 class="color-fg-default text-semibold"
                 style="white-space:nowrap;line-height:20px;"
-                >Varunmr88<span class="color-fg-subtle text-normal">&nbsp;&nbsp;/&nbsp;&nbsp;</span></command-palette-token>
+                >uludagy<span class="color-fg-subtle text-normal">&nbsp;&nbsp;/&nbsp;&nbsp;</span></command-palette-token>
               <command-palette-token
-                data-text="tidydata-project"
-                data-id="R_kgDOHze0Sg"
+                data-text="GettingandCleaningData"
+                data-id="MDEwOlJlcG9zaXRvcnk3MzYwNDExNw=="
                 data-type="repository"
-                data-value="tidydata-project"
+                data-value="GettingandCleaningData"
                 data-targets="command-palette-scope.tokens"
                 class="color-fg-default text-semibold"
                 style="white-space:nowrap;line-height:20px;"
-                >tidydata-project<span class="color-fg-subtle text-normal">&nbsp;&nbsp;/&nbsp;&nbsp;</span></command-palette-token>
+                >GettingandCleanin...<span class="color-fg-subtle text-normal">&nbsp;&nbsp;/&nbsp;&nbsp;</span></command-palette-token>
         </command-palette-scope>
         <div class="command-palette-input-group flex-1 form-control border-0 box-shadow-none" style="z-index: 0">
           <div class="command-palette-typeahead position-absolute d-flex flex-items-center Truncate">
@@ -791,7 +791,7 @@
       </command-palette-input>
 
       <command-palette-page-stack
-        data-default-scope-id="R_kgDOHze0Sg"
+        data-default-scope-id="MDEwOlJlcG9zaXRvcnk3MzYwNDExNw=="
         data-default-scope-type="Repository"
         data-action="command-palette-page-octicons-cached:command-palette-page-stack#cacheOcticons"
       >
@@ -1211,16 +1211,16 @@
             </command-palette-item-group>
 
             <command-palette-page
-              data-page-title="Varunmr88"
-              data-scope-id="U_kgDOBoXa8g"
+              data-page-title="uludagy"
+              data-scope-id="MDQ6VXNlcjE4Mzk4ODQ1"
               data-scope-type="owner"
               data-targets="command-palette-page-stack.defaultPages"
               hidden
             >
             </command-palette-page>
             <command-palette-page
-              data-page-title="tidydata-project"
-              data-scope-id="R_kgDOHze0Sg"
+              data-page-title="GettingandCleaningData"
+              data-scope-id="MDEwOlJlcG9zaXRvcnk3MzYwNDExNw=="
               data-scope-type="repository"
               data-targets="command-palette-page-stack.defaultPages"
               hidden
@@ -1231,14 +1231,14 @@
         <command-palette-page data-is-root>
         </command-palette-page>
           <command-palette-page
-            data-page-title="Varunmr88"
-            data-scope-id="U_kgDOBoXa8g"
+            data-page-title="uludagy"
+            data-scope-id="MDQ6VXNlcjE4Mzk4ODQ1"
             data-scope-type="owner"
           >
           </command-palette-page>
           <command-palette-page
-            data-page-title="tidydata-project"
-            data-scope-id="R_kgDOHze0Sg"
+            data-page-title="GettingandCleaningData"
+            data-scope-id="MDEwOlJlcG9zaXRvcnk3MzYwNDExNw=="
             data-scope-type="repository"
           >
           </command-palette-page>
@@ -1566,11 +1566,11 @@
 </svg>
   
   <span class="author flex-self-stretch" itemprop="author">
-    <a class="url fn" rel="author" data-hovercard-type="user" data-hovercard-url="/users/Varunmr88/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/Varunmr88">Varunmr88</a>
+    <a class="url fn" rel="author" data-hovercard-type="user" data-hovercard-url="/users/uludagy/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/uludagy">uludagy</a>
   </span>
   <span class="mx-1 flex-self-stretch color-fg-muted">/</span>
   <strong itemprop="name" class="mr-2 flex-self-stretch">
-    <a data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" href="/Varunmr88/tidydata-project">tidydata-project</a>
+    <a data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" href="/uludagy/GettingandCleaningData">GettingandCleaningData</a>
   </strong>
 
   <span></span><span class="Label Label--secondary v-align-middle mr-1">Public</span>
@@ -1580,15 +1580,7 @@
 
           <ul class="pagehead-actions flex-shrink-0 d-none d-md-inline" style="padding: 2px 0;">
 
-    <li>
-  <div class="float-left" data-test-selector="pin-repo-button">
-    <form data-turbo="false" action="/Varunmr88/tidydata-project/profile_pin" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="_jjzAn-9Y5eP8VyOlwQs3QkxXm0nggnN04oLJBzmQLjjVk_XWJkjepy9l1KubJJfuAWhgKZah-2SDwKCnSiuVw" autocomplete="off" />
-        <button title="Pin this repository to your profile" type="submit" data-view-component="true" class="btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pin mr-2">
-    <path fill-rule="evenodd" d="M4.456.734a1.75 1.75 0 012.826.504l.613 1.327a3.081 3.081 0 002.084 1.707l2.454.584c1.332.317 1.8 1.972.832 2.94L11.06 10l3.72 3.72a.75.75 0 11-1.061 1.06L10 11.06l-2.204 2.205c-.968.968-2.623.5-2.94-.832l-.584-2.454a3.081 3.081 0 00-1.707-2.084l-1.327-.613a1.75 1.75 0 01-.504-2.826L4.456.734zM5.92 1.866a.25.25 0 00-.404-.072L1.794 5.516a.25.25 0 00.072.404l1.328.613A4.582 4.582 0 015.73 9.63l.584 2.454a.25.25 0 00.42.12l5.47-5.47a.25.25 0 00-.12-.42L9.63 5.73a4.581 4.581 0 01-3.098-2.537L5.92 1.866z"></path>
-</svg>Pin
-</button></form>  </div>
-</li>
-
+    
 
   <li>
         <notifications-list-subscription-form
@@ -1601,9 +1593,9 @@
         data-action="toggle:notifications-list-subscription-form#detailsToggled"
       >
 
-        <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:523744330,&quot;originating_url&quot;:&quot;https://github.com/Varunmr88/tidydata-project/blob/main/README.md&quot;,&quot;user_id&quot;:109435634}}" data-hydro-click-hmac="34983c0dcf788be01d8d89d7b5d5be2c4529da4130a4187099e4b7ec98cac2c6" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">    <span data-menu-button>
+        <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:73604117,&quot;originating_url&quot;:&quot;https://github.com/uludagy/GettingandCleaningData/blob/master/README.md&quot;,&quot;user_id&quot;:109435634}}" data-hydro-click-hmac="9c1993b2117dedae31e2e966de75b3fa826cf786774c8c9763b579c81bde8ed1" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">    <span data-menu-button>
             <span
-              
+              hidden
               
               data-target="notifications-list-subscription-form.unwatchButtonCopy"
             >
@@ -1623,7 +1615,7 @@
               Stop ignoring
             </span>
             <span
-              hidden
+              
               
               data-target="notifications-list-subscription-form.watchButtonCopy"
             >
@@ -1653,9 +1645,9 @@
             </header>
 
             <div class="SelectMenu-list">
-              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="wRO03ECimhNpuxdWsqzn363Gy8XGgkp-YV9r6ouJ1f4XZnoE-lY_aGDvu5-xNk_AbtgzfR6iPs3uVNX7QYGHUg" autocomplete="off" />
+              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="V7HKRgQXfAYDs2lujP-AcBWMuMtgqOHvrzcaSTTv4kuBxASevuPZfQrnxaePZShv1pJAc7iIlVwgPKRY_uew5w" autocomplete="off" />
 
-                <input type="hidden" name="repository_id" value="523744330">
+                <input type="hidden" name="repository_id" value="73604117">
 
                 <button
                   type="submit"
@@ -1663,7 +1655,7 @@
                   value="included"
                   class="SelectMenu-item flex-items-start"
                   role="menuitemradio"
-                  aria-checked="false"
+                  aria-checked="true"
                   data-targets="notifications-list-subscription-form.subscriptionButtons"
                   
                 >
@@ -1688,7 +1680,7 @@
                   value="subscribed"
                   class="SelectMenu-item flex-items-start"
                   role="menuitemradio"
-                  aria-checked="true"
+                  aria-checked="false"
                   data-targets="notifications-list-subscription-form.subscriptionButtons"
                 >
                   <span class="f5">
@@ -1781,9 +1773,9 @@
           hidden
         >
           <div class="SelectMenu-modal notifications-component-dialog-modal overflow-visible">
-            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="MmTy2_e2bKR_vWluP4TQqp2ROWvxPL1awd2qXAfPOy7kETwDTULJ33bpxac8Hni1Xo_B0ykcyelO1hRNzcdpgg" autocomplete="off" />
+            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="7LvHbBVqms0AA-InL3NQX051hSylMJfzTiL5f_-dr_M6zgm0r54_tglXTu4s6fhAjWt9lH0Q40DBKUduNZX9Xw" autocomplete="off" />
 
-              <input type="hidden" name="repository_id" value="523744330">
+              <input type="hidden" name="repository_id" value="73604117">
 
               <header class="d-sm-none SelectMenu-header pb-0 border-bottom-0 px-2 px-sm-3">
                 <h1 class="f3 SelectMenu-title d-inline-flex">
@@ -1928,31 +1920,31 @@
   <li>
       
   <div data-view-component="true" class="BtnGroup">
-        <button aria-label="Cannot fork because you own this repository and are not a member of any organizations." disabled="disabled" type="button" data-view-component="true" class="tooltipped tooltipped-s btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
+        <a href="/uludagy/GettingandCleaningData/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:73604117,&quot;originating_url&quot;:&quot;https://github.com/uludagy/GettingandCleaningData/blob/master/README.md&quot;,&quot;user_id&quot;:109435634}}" data-hydro-click-hmac="67ec35e9e501c51196130fb532b6bfec1a996e338946cd688bdf38fd23636375" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" aria-label="Fork your own copy of uludagy/GettingandCleaningData" data-view-component="true" class="btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
     <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path>
 </svg>Fork
-        <span id="repo-network-counter" data-pjax-replace="true" title="0" data-view-component="true" class="Counter">0</span>
-</button>
-    <details group_item="true" id="my-forks-menu-523744330" data-view-component="true" class="details-reset details-overlay BtnGroup-parent d-inline-block position-relative">
+          <span id="repo-network-counter" data-pjax-replace="true" title="10" data-view-component="true" class="Counter">10</span>
+</a>
+    <details group_item="true" id="my-forks-menu-73604117" data-view-component="true" class="details-reset details-overlay BtnGroup-parent d-inline-block position-relative">
             <summary aria-label="See your forks of this repository" data-view-component="true" class="btn-sm btn BtnGroup-item px-2 float-none">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-triangle-down">
     <path d="M4.427 7.427l3.396 3.396a.25.25 0 00.354 0l3.396-3.396A.25.25 0 0011.396 7H4.604a.25.25 0 00-.177.427z"></path>
 </svg>
 </summary>
   <details-menu
     class="SelectMenu right-0"
-      src="/Varunmr88/tidydata-project/my_forks_menu_content?can_fork=false"
+      src="/uludagy/GettingandCleaningData/my_forks_menu_content?can_fork=true"
       
       role="menu"
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-a7a8bf">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-67855f">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-a7a8bf"
+        id="filter-menu-67855f"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -1993,43 +1985,43 @@
 </template>
 
   <div data-view-component="true" class="js-toggler-container js-social-container starring-container BtnGroup d-flex">
-    <form class="starred js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/Varunmr88/tidydata-project/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Y2vsmLLHWrS3ci4roct-thx9OCFfr8L6fDSb4t5x86ifzXJhyhNjq24XucH_nHoZyCzB6McqFM_f42L64B2q8A" autocomplete="off" />
-        <input type="hidden" value="IT53ONfNDq0W7MYu9t0nuO-wTMSDBFKwKKghzyeiT6zdmOnBrxk3ss-JUcSoiiMXO-G1DRuBhIWLf9jXGc4W9A" data-csrf="true" class="js-confirm-csrf-token" />
+    <form class="starred js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/uludagy/GettingandCleaningData/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="4LPRs4pxFneezlZQP-xuZvE2uhUIQGhC9c0s2FqnxaJhlPEaHBlDVKqB9mGeiqR_RDe2R-6Xc5dVISxo9c_lAQ" autocomplete="off" />
+        <input type="hidden" value="bmVrnbKTux5NCYJZ875kH_w2vVGP66GmtsBF05jIKfrvQks0JPvuPXlGImhS2K4GSTexA2k8unMWLEVjN6AJWQ" data-csrf="true" class="js-confirm-csrf-token" />
       <input type="hidden" name="context" value="repository">
-        <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:523744330,&quot;originating_url&quot;:&quot;https://github.com/Varunmr88/tidydata-project/blob/main/README.md&quot;,&quot;user_id&quot;:109435634}}" data-hydro-click-hmac="b027f60ad71e3c5495aa65cb2f9d42ceadca388646817e0c68734d51e7cd327f" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository" type="submit" data-view-component="true" class="rounded-left-2 border-right-0 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
+        <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:73604117,&quot;originating_url&quot;:&quot;https://github.com/uludagy/GettingandCleaningData/blob/master/README.md&quot;,&quot;user_id&quot;:109435634}}" data-hydro-click-hmac="79a851b2a1b2a885be18f57005a9ad58d02ddb0f56cddd2ce16c48d83cd3f414" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository" type="submit" data-view-component="true" class="rounded-left-2 border-right-0 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path>
 </svg><span data-view-component="true" class="d-inline">
           Starred
-</span>          <span id="repo-stars-counter-unstar" aria-label="0 users starred this repository" data-singular-suffix="user starred this repository" data-plural-suffix="users starred this repository" data-pjax-replace="true" data-turbo-replace="true" title="0" data-view-component="true" class="Counter js-social-count">0</span>
+</span>          <span id="repo-stars-counter-unstar" aria-label="2 users starred this repository" data-singular-suffix="user starred this repository" data-plural-suffix="users starred this repository" data-pjax-replace="true" data-turbo-replace="true" title="2" data-view-component="true" class="Counter js-social-count">2</span>
 </button></form>
-    <form class="unstarred js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/Varunmr88/tidydata-project/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="XWljE5uhYHXcDM2xXSfrkUPqs8yBVeuPtTzeNn9duEERdyrXSRwm0Jq3S0d6s0XM584w_ihbAQjW51QX5GslIw" autocomplete="off" />
+    <form class="unstarred js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/uludagy/GettingandCleaningData/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Z-VrjALUIzbqIjct5wndx7TOOFveew9aB8shHUyW-aTesrY7sSXLgXbA30GtoSzJPDCGw-H6iSnG7DnzpqKsGQ" autocomplete="off" />
       <input type="hidden" name="context" value="repository">
-        <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:523744330,&quot;originating_url&quot;:&quot;https://github.com/Varunmr88/tidydata-project/blob/main/README.md&quot;,&quot;user_id&quot;:109435634}}" data-hydro-click-hmac="9f5b352860ab86d5b0ed0de428f81d1c698ffc4ffe18a84d4d91c475f65eecb9" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
+        <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:73604117,&quot;originating_url&quot;:&quot;https://github.com/uludagy/GettingandCleaningData/blob/master/README.md&quot;,&quot;user_id&quot;:109435634}}" data-hydro-click-hmac="0c2a251a0bcaade8a35500b14cfdb5c44bc472ff2110061c66fc93c61a4c79d1" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path>
 </svg><span data-view-component="true" class="d-inline">
           Star
-</span>          <span id="repo-stars-counter-star" aria-label="0 users starred this repository" data-singular-suffix="user starred this repository" data-plural-suffix="users starred this repository" data-pjax-replace="true" data-turbo-replace="true" title="0" data-view-component="true" class="Counter js-social-count">0</span>
+</span>          <span id="repo-stars-counter-star" aria-label="2 users starred this repository" data-singular-suffix="user starred this repository" data-plural-suffix="users starred this repository" data-pjax-replace="true" data-turbo-replace="true" title="2" data-view-component="true" class="Counter js-social-count">2</span>
 </button></form>
-      <details id="details-user-list-523744330" data-view-component="true" class="details-reset details-overlay BtnGroup-parent js-user-list-menu d-inline-block position-relative">
+      <details id="details-user-list-73604117" data-view-component="true" class="details-reset details-overlay BtnGroup-parent js-user-list-menu d-inline-block position-relative">
         <summary aria-label="Add this repository to a list" data-view-component="true" class="btn-sm btn BtnGroup-item px-2 float-none">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-triangle-down">
     <path d="M4.427 7.427l3.396 3.396a.25.25 0 00.354 0l3.396-3.396A.25.25 0 0011.396 7H4.604a.25.25 0 00-.177.427z"></path>
 </svg>
 </summary>
   <details-menu
     class="SelectMenu right-0"
-      src="/Varunmr88/tidydata-project/lists"
+      src="/uludagy/GettingandCleaningData/lists"
       
       role="menu"
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-cd14cd">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-e418a4">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-cd14cd"
+        id="filter-menu-e418a4"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2068,7 +2060,7 @@
 
   <ul data-view-component="true" class="UnderlineNav-body list-style-none">
       <li data-view-component="true" class="d-inline-flex">
-  <a id="code-tab" href="/Varunmr88/tidydata-project" data-tab-item="i0code-tab" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /Varunmr88/tidydata-project" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g c" data-ga-click="Repository, Navigation click, Code tab" aria-current="page" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item selected">
+  <a id="code-tab" href="/uludagy/GettingandCleaningData" data-tab-item="i0code-tab" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /uludagy/GettingandCleaningData" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g c" data-ga-click="Repository, Navigation click, Code tab" aria-current="page" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item selected">
     
                 <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code UnderlineNav-octicon d-none d-sm-inline">
     <path fill-rule="evenodd" d="M4.72 3.22a.75.75 0 011.06 1.06L2.06 8l3.72 3.72a.75.75 0 11-1.06 1.06L.47 8.53a.75.75 0 010-1.06l4.25-4.25zm6.56 0a.75.75 0 10-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 101.06 1.06l4.25-4.25a.75.75 0 000-1.06l-4.25-4.25z"></path>
@@ -2080,7 +2072,7 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="issues-tab" href="/Varunmr88/tidydata-project/issues" data-tab-item="i1issues-tab" data-selected-links="repo_issues repo_labels repo_milestones /Varunmr88/tidydata-project/issues" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g i" data-ga-click="Repository, Navigation click, Issues tab" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="issues-tab" href="/uludagy/GettingandCleaningData/issues" data-tab-item="i1issues-tab" data-selected-links="repo_issues repo_labels repo_milestones /uludagy/GettingandCleaningData/issues" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g i" data-ga-click="Repository, Navigation click, Issues tab" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                 <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-opened UnderlineNav-octicon d-none d-sm-inline">
     <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path><path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"></path>
@@ -2092,7 +2084,7 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="pull-requests-tab" href="/Varunmr88/tidydata-project/pulls" data-tab-item="i2pull-requests-tab" data-selected-links="repo_pulls checks /Varunmr88/tidydata-project/pulls" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g p" data-ga-click="Repository, Navigation click, Pull requests tab" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="pull-requests-tab" href="/uludagy/GettingandCleaningData/pulls" data-tab-item="i2pull-requests-tab" data-selected-links="repo_pulls checks /uludagy/GettingandCleaningData/pulls" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g p" data-ga-click="Repository, Navigation click, Pull requests tab" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                 <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-pull-request UnderlineNav-octicon d-none d-sm-inline">
     <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"></path>
@@ -2104,7 +2096,7 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="actions-tab" href="/Varunmr88/tidydata-project/actions" data-tab-item="i3actions-tab" data-selected-links="repo_actions /Varunmr88/tidydata-project/actions" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g a" data-analytics-event="{&quot;category&quot;:&quot;Actions&quot;,&quot;action&quot;:&quot;clicked&quot;,&quot;label&quot;:&quot;ref_cta:Actions;ref_loc:navigation_helper&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="actions-tab" href="/uludagy/GettingandCleaningData/actions" data-tab-item="i3actions-tab" data-selected-links="repo_actions /uludagy/GettingandCleaningData/actions" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g a" data-analytics-event="{&quot;category&quot;:&quot;Actions&quot;,&quot;action&quot;:&quot;clicked&quot;,&quot;label&quot;:&quot;ref_cta:Actions;ref_loc:navigation_helper&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                 <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-play UnderlineNav-octicon d-none d-sm-inline">
     <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zM6.379 5.227A.25.25 0 006 5.442v5.117a.25.25 0 00.379.214l4.264-2.559a.25.25 0 000-.428L6.379 5.227z"></path>
@@ -2116,7 +2108,7 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="projects-tab" href="/Varunmr88/tidydata-project/projects?type=new" data-tab-item="i4projects-tab" data-selected-links="repo_projects new_repo_project repo_project /Varunmr88/tidydata-project/projects?type=new" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g b" data-ga-click="Repository, Navigation click, Projects tab" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="projects-tab" href="/uludagy/GettingandCleaningData/projects?type=new" data-tab-item="i4projects-tab" data-selected-links="repo_projects new_repo_project repo_project /uludagy/GettingandCleaningData/projects?type=new" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g b" data-ga-click="Repository, Navigation click, Projects tab" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                 <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-table UnderlineNav-octicon d-none d-sm-inline">
     <path fill-rule="evenodd" d="M0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v12.5A1.75 1.75 0 0114.25 16H1.75A1.75 1.75 0 010 14.25V1.75zM1.5 6.5v7.75c0 .138.112.25.25.25H5v-8H1.5zM5 5H1.5V1.75a.25.25 0 01.25-.25H5V5zm1.5 1.5v8h7.75a.25.25 0 00.25-.25V6.5h-8zm8-1.5h-8V1.5h7.75a.25.25 0 01.25.25V5z"></path>
@@ -2128,7 +2120,7 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="wiki-tab" href="/Varunmr88/tidydata-project/wiki" data-tab-item="i5wiki-tab" data-selected-links="repo_wiki /Varunmr88/tidydata-project/wiki" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g w" data-ga-click="Repository, Navigation click, Wikis tab" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="wiki-tab" href="/uludagy/GettingandCleaningData/wiki" data-tab-item="i5wiki-tab" data-selected-links="repo_wiki /uludagy/GettingandCleaningData/wiki" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g w" data-ga-click="Repository, Navigation click, Wikis tab" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                 <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-book UnderlineNav-octicon d-none d-sm-inline">
     <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"></path>
@@ -2140,36 +2132,24 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="security-tab" href="/Varunmr88/tidydata-project/security" data-tab-item="i6security-tab" data-selected-links="security overview alerts policy token_scanning code_scanning /Varunmr88/tidydata-project/security" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g s" data-ga-click="Repository, Navigation click, Security tab" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="security-tab" href="/uludagy/GettingandCleaningData/security" data-tab-item="i6security-tab" data-selected-links="security overview alerts policy token_scanning code_scanning /uludagy/GettingandCleaningData/security" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g s" data-ga-click="Repository, Navigation click, Security tab" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                 <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-shield UnderlineNav-octicon d-none d-sm-inline">
     <path fill-rule="evenodd" d="M7.467.133a1.75 1.75 0 011.066 0l5.25 1.68A1.75 1.75 0 0115 3.48V7c0 1.566-.32 3.182-1.303 4.682-.983 1.498-2.585 2.813-5.032 3.855a1.7 1.7 0 01-1.33 0c-2.447-1.042-4.049-2.357-5.032-3.855C1.32 10.182 1 8.566 1 7V3.48a1.75 1.75 0 011.217-1.667l5.25-1.68zm.61 1.429a.25.25 0 00-.153 0l-5.25 1.68a.25.25 0 00-.174.238V7c0 1.358.275 2.666 1.057 3.86.784 1.194 2.121 2.34 4.366 3.297a.2.2 0 00.154 0c2.245-.956 3.582-2.104 4.366-3.298C13.225 9.666 13.5 8.36 13.5 7V3.48a.25.25 0 00-.174-.237l-5.25-1.68zM9 10.5a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.75a.75.75 0 10-1.5 0v3a.75.75 0 001.5 0v-3z"></path>
 </svg>
         <span data-content="Security">Security</span>
-          <include-fragment src="/Varunmr88/tidydata-project/security/overall-count" accept="text/fragment+html"></include-fragment>
+          <include-fragment src="/uludagy/GettingandCleaningData/security/overall-count" accept="text/fragment+html"></include-fragment>
 
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="insights-tab" href="/Varunmr88/tidydata-project/pulse" data-tab-item="i7insights-tab" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /Varunmr88/tidydata-project/pulse" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-ga-click="Repository, Navigation click, Insights tab" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="insights-tab" href="/uludagy/GettingandCleaningData/pulse" data-tab-item="i7insights-tab" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /uludagy/GettingandCleaningData/pulse" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-ga-click="Repository, Navigation click, Insights tab" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                 <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-graph UnderlineNav-octicon d-none d-sm-inline">
     <path fill-rule="evenodd" d="M1.5 1.75a.75.75 0 00-1.5 0v12.5c0 .414.336.75.75.75h14.5a.75.75 0 000-1.5H1.5V1.75zm14.28 2.53a.75.75 0 00-1.06-1.06L10 7.94 7.53 5.47a.75.75 0 00-1.06 0L3.22 8.72a.75.75 0 001.06 1.06L7 7.06l2.47 2.47a.75.75 0 001.06 0l5.25-5.25z"></path>
 </svg>
         <span data-content="Insights">Insights</span>
           <span id="insights-repo-tab-count" data-pjax-replace="" title="Not available" data-view-component="true" class="Counter"></span>
-
-
-    
-</a></li>
-      <li data-view-component="true" class="d-inline-flex">
-  <a id="settings-tab" href="/Varunmr88/tidydata-project/settings" data-tab-item="i8settings-tab" data-selected-links="repo_settings repo_branch_settings collaborators hooks integration_installations repo_keys_settings issue_template_editor secrets_settings_actions secrets_settings_codespaces secrets_settings_dependabot security_analysis key_links_settings repo_actions_settings notifications repository_actions_settings_runners repository_environments interaction_limits repository_actions_settings_general repository_actions_settings_add_new_runner repo_pages_settings /Varunmr88/tidydata-project/settings" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-ga-click="Repository, Navigation click, Settings tab" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
-    
-                <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-gear UnderlineNav-octicon d-none d-sm-inline">
-    <path fill-rule="evenodd" d="M7.429 1.525a6.593 6.593 0 011.142 0c.036.003.108.036.137.146l.289 1.105c.147.56.55.967.997 1.189.174.086.341.183.501.29.417.278.97.423 1.53.27l1.102-.303c.11-.03.175.016.195.046.219.31.41.641.573.989.014.031.022.11-.059.19l-.815.806c-.411.406-.562.957-.53 1.456a4.588 4.588 0 010 .582c-.032.499.119 1.05.53 1.456l.815.806c.08.08.073.159.059.19a6.494 6.494 0 01-.573.99c-.02.029-.086.074-.195.045l-1.103-.303c-.559-.153-1.112-.008-1.529.27-.16.107-.327.204-.5.29-.449.222-.851.628-.998 1.189l-.289 1.105c-.029.11-.101.143-.137.146a6.613 6.613 0 01-1.142 0c-.036-.003-.108-.037-.137-.146l-.289-1.105c-.147-.56-.55-.967-.997-1.189a4.502 4.502 0 01-.501-.29c-.417-.278-.97-.423-1.53-.27l-1.102.303c-.11.03-.175-.016-.195-.046a6.492 6.492 0 01-.573-.989c-.014-.031-.022-.11.059-.19l.815-.806c.411-.406.562-.957.53-1.456a4.587 4.587 0 010-.582c.032-.499-.119-1.05-.53-1.456l-.815-.806c-.08-.08-.073-.159-.059-.19a6.44 6.44 0 01.573-.99c.02-.029.086-.075.195-.045l1.103.303c.559.153 1.112.008 1.529-.27.16-.107.327-.204.5-.29.449-.222.851-.628.998-1.189l.289-1.105c.029-.11.101-.143.137-.146zM8 0c-.236 0-.47.01-.701.03-.743.065-1.29.615-1.458 1.261l-.29 1.106c-.017.066-.078.158-.211.224a5.994 5.994 0 00-.668.386c-.123.082-.233.09-.3.071L3.27 2.776c-.644-.177-1.392.02-1.82.63a7.977 7.977 0 00-.704 1.217c-.315.675-.111 1.422.363 1.891l.815.806c.05.048.098.147.088.294a6.084 6.084 0 000 .772c.01.147-.038.246-.088.294l-.815.806c-.474.469-.678 1.216-.363 1.891.2.428.436.835.704 1.218.428.609 1.176.806 1.82.63l1.103-.303c.066-.019.176-.011.299.071.213.143.436.272.668.386.133.066.194.158.212.224l.289 1.106c.169.646.715 1.196 1.458 1.26a8.094 8.094 0 001.402 0c.743-.064 1.29-.614 1.458-1.26l.29-1.106c.017-.066.078-.158.211-.224a5.98 5.98 0 00.668-.386c.123-.082.233-.09.3-.071l1.102.302c.644.177 1.392-.02 1.82-.63.268-.382.505-.789.704-1.217.315-.675.111-1.422-.364-1.891l-.814-.806c-.05-.048-.098-.147-.088-.294a6.1 6.1 0 000-.772c-.01-.147.039-.246.088-.294l.814-.806c.475-.469.679-1.216.364-1.891a7.992 7.992 0 00-.704-1.218c-.428-.609-1.176-.806-1.82-.63l-1.103.303c-.066.019-.176.011-.299-.071a5.991 5.991 0 00-.668-.386c-.133-.066-.194-.158-.212-.224L10.16 1.29C9.99.645 9.444.095 8.701.031A8.094 8.094 0 008 0zm1.5 8a1.5 1.5 0 11-3 0 1.5 1.5 0 013 0zM11 8a3 3 0 11-6 0 3 3 0 016 0z"></path>
-</svg>
-        <span data-content="Settings">Settings</span>
-          <span id="settings-repo-tab-count" data-pjax-replace="" title="Not available" data-view-component="true" class="Counter"></span>
 
 
     
@@ -2187,40 +2167,36 @@
   
             <ul>
                 <li data-menu-item="i0code-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item selected dropdown-item" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /Varunmr88/tidydata-project" href="/Varunmr88/tidydata-project">
+                  <a role="menuitem" class="js-selected-navigation-item selected dropdown-item" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /uludagy/GettingandCleaningData" href="/uludagy/GettingandCleaningData">
                     Code
 </a>                </li>
                 <li data-menu-item="i1issues-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_issues repo_labels repo_milestones /Varunmr88/tidydata-project/issues" href="/Varunmr88/tidydata-project/issues">
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_issues repo_labels repo_milestones /uludagy/GettingandCleaningData/issues" href="/uludagy/GettingandCleaningData/issues">
                     Issues
 </a>                </li>
                 <li data-menu-item="i2pull-requests-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_pulls checks /Varunmr88/tidydata-project/pulls" href="/Varunmr88/tidydata-project/pulls">
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_pulls checks /uludagy/GettingandCleaningData/pulls" href="/uludagy/GettingandCleaningData/pulls">
                     Pull requests
 </a>                </li>
                 <li data-menu-item="i3actions-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_actions /Varunmr88/tidydata-project/actions" href="/Varunmr88/tidydata-project/actions">
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_actions /uludagy/GettingandCleaningData/actions" href="/uludagy/GettingandCleaningData/actions">
                     Actions
 </a>                </li>
                 <li data-menu-item="i4projects-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_projects new_repo_project repo_project /Varunmr88/tidydata-project/projects?type=new" href="/Varunmr88/tidydata-project/projects?type=new">
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_projects new_repo_project repo_project /uludagy/GettingandCleaningData/projects?type=new" href="/uludagy/GettingandCleaningData/projects?type=new">
                     Projects
 </a>                </li>
                 <li data-menu-item="i5wiki-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_wiki /Varunmr88/tidydata-project/wiki" href="/Varunmr88/tidydata-project/wiki">
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_wiki /uludagy/GettingandCleaningData/wiki" href="/uludagy/GettingandCleaningData/wiki">
                     Wiki
 </a>                </li>
                 <li data-menu-item="i6security-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="security overview alerts policy token_scanning code_scanning /Varunmr88/tidydata-project/security" href="/Varunmr88/tidydata-project/security">
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="security overview alerts policy token_scanning code_scanning /uludagy/GettingandCleaningData/security" href="/uludagy/GettingandCleaningData/security">
                     Security
 </a>                </li>
                 <li data-menu-item="i7insights-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /Varunmr88/tidydata-project/pulse" href="/Varunmr88/tidydata-project/pulse">
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /uludagy/GettingandCleaningData/pulse" href="/uludagy/GettingandCleaningData/pulse">
                     Insights
-</a>                </li>
-                <li data-menu-item="i8settings-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_settings repo_branch_settings collaborators hooks integration_installations repo_keys_settings issue_template_editor secrets_settings_actions secrets_settings_codespaces secrets_settings_dependabot security_analysis key_links_settings repo_actions_settings notifications repository_actions_settings_runners repository_environments interaction_limits repository_actions_settings_general repository_actions_settings_add_new_runner repo_pages_settings /Varunmr88/tidydata-project/settings" href="/Varunmr88/tidydata-project/settings">
-                    Settings
 </a>                </li>
             </ul>
 
@@ -2255,7 +2231,7 @@
 
 
     
-<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/Varunmr88/tidydata-project/blob/7a0019e7029d0b2e272ac02c75d79c78cd9e7926/README.md">Permalink</a>
+<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/uludagy/GettingandCleaningData/blob/06227622d9b9e8d4684072b11701a961f8c2a528/README.md">Permalink</a>
 
 <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
   
@@ -2267,7 +2243,7 @@
       <svg text="gray" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-branch">
     <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"></path>
 </svg>
-      <span class="css-truncate-target" data-menu-button>main</span>
+      <span class="css-truncate-target" data-menu-button>master</span>
       <span class="dropdown-caret"></span>
     </summary>
 
@@ -2291,8 +2267,8 @@
                  data-controls-ref-menu-id="ref-list-branches"
                  autofocus
                  autocomplete="off"
-                 aria-label="Find or create a branch…"
-                 placeholder="Find or create a branch…"
+                 aria-label="Filter branches/tags"
+                 placeholder="Filter branches/tags"
                  type="text"
           >
         </div>
@@ -2302,7 +2278,7 @@
           <button class="SelectMenu-tab" type="button" role="tab">Tags</button>
         </div>
 
-        <div role="tabpanel" id="ref-list-branches" data-filter-placeholder="Find or create a branch…" tabindex="" class="d-flex flex-column flex-auto overflow-auto">
+        <div role="tabpanel" id="ref-list-branches" data-filter-placeholder="Filter branches/tags" tabindex="" class="d-flex flex-column flex-auto overflow-auto">
           <ref-selector
             type="branch"
             data-targets="input-demux.sinks"
@@ -2311,12 +2287,12 @@
               tab-selected:ref-selector#tabSelected
               focus-list:ref-selector#focusFirstListMember
             "
-            query-endpoint="/Varunmr88/tidydata-project/refs"
-            can-create
-            cache-key="v0:1660287733.337164"
-            current-committish="bWFpbg=="
-            default-branch="bWFpbg=="
-            name-with-owner="VmFydW5tcjg4L3RpZHlkYXRhLXByb2plY3Q="
+            query-endpoint="/uludagy/GettingandCleaningData/refs"
+            
+            cache-key="v0:1479025813.0"
+            current-committish="bWFzdGVy"
+            default-branch="bWFzdGVy"
+            name-with-owner="dWx1ZGFneS9HZXR0aW5nYW5kQ2xlYW5pbmdEYXRh"
             prefetch-on-mouseover
           >
 
@@ -2325,21 +2301,8 @@
             </template>
 
               <template data-target="ref-selector.noMatchTemplate">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/Varunmr88/tidydata-project/branches" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="WcpMsAcL8NAsqEcPczArHw8lceqXvV1xuNmQIXK1EdlA1rosNyxH7ICw9TXU03V4-n8bs-_Xrb1H-1iwWXquVg" />
-      <input type="hidden" name="name" value="{{ refName }}">
-      <input type="hidden" name="branch"  value="main">
-      <input type="hidden" name="path_binary" value="UkVBRE1FLm1k">
-
-      <button class="SelectMenu-item wb-break-word" type="submit" role="menuitem" data-index="{{ index }}">
-        <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-branch SelectMenu-icon flex-self-baseline">
-    <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"></path>
-</svg>
-        <div>
-          <span class="text-bold">Create branch: {{ refName }}</span>
-          <span class="color-fg-muted">from ‘main’</span>
-        </div>
-      </button>
-</form></template>
+    <div class="SelectMenu-message">Nothing to show</div>
+</template>
 
 
             <div data-target="ref-selector.listContainer" role="menu" class="SelectMenu-list " data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame">
@@ -2352,7 +2315,7 @@
             </div>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/Varunmr88/tidydata-project/blob/{{ urlEncodedRefName }}/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/uludagy/GettingandCleaningData/blob/{{ urlEncodedRefName }}/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2362,7 +2325,7 @@
 </template>
 
 
-              <footer class="SelectMenu-footer"><a href="/Varunmr88/tidydata-project/branches">View all branches</a></footer>
+              <footer class="SelectMenu-footer"><a href="/uludagy/GettingandCleaningData/branches">View all branches</a></footer>
           </ref-selector>
 
         </div>
@@ -2376,11 +2339,11 @@
               focus-list:ref-selector#focusFirstListMember
             "
             data-targets="input-demux.sinks"
-            query-endpoint="/Varunmr88/tidydata-project/refs"
-            cache-key="v0:1660287733.337164"
-            current-committish="bWFpbg=="
-            default-branch="bWFpbg=="
-            name-with-owner="VmFydW5tcjg4L3RpZHlkYXRhLXByb2plY3Q="
+            query-endpoint="/uludagy/GettingandCleaningData/refs"
+            cache-key="v0:1479025813.0"
+            current-committish="bWFzdGVy"
+            default-branch="bWFzdGVy"
+            name-with-owner="dWx1ZGFneS9HZXR0aW5nYW5kQ2xlYW5pbmdEYXRh"
           >
 
             <template data-target="ref-selector.fetchFailedTemplate">
@@ -2392,7 +2355,7 @@
             </template>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/Varunmr88/tidydata-project/blob/{{ urlEncodedRefName }}/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/uludagy/GettingandCleaningData/blob/{{ urlEncodedRefName }}/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2410,7 +2373,7 @@
 </svg>
               </div>
             </div>
-              <footer class="SelectMenu-footer"><a href="/Varunmr88/tidydata-project/tags">View all tags</a></footer>
+              <footer class="SelectMenu-footer"><a href="/uludagy/GettingandCleaningData/tags">View all tags</a></footer>
           </ref-selector>
         </div>
       </tab-container>
@@ -2423,9 +2386,9 @@
 </div>
 
   <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" href="/Varunmr88/tidydata-project"><span>tidydata-project</span></a></span></span><span class="separator">/</span><strong class="final-path">README.md</strong>
+    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" href="/uludagy/GettingandCleaningData"><span>GettingandCleaningData</span></a></span></span><span class="separator">/</span><strong class="final-path">README.md</strong>
   </h2>
-    <a href="/Varunmr88/tidydata-project/find/main" data-pjax="" data-hotkey="t" data-view-component="true" class="btn mr-2 d-none d-md-block">    Go to file
+    <a href="/uludagy/GettingandCleaningData/find/master" data-pjax="" data-hotkey="t" data-view-component="true" class="btn mr-2 d-none d-md-block">    Go to file
 </a>
   <details id="blob-more-options-details" data-view-component="true" class="details-overlay details-reset position-relative">
     <summary role="button" data-view-component="true" class="btn">    <svg aria-label="More options" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal">
@@ -2434,7 +2397,7 @@
 </summary>
   <div data-view-component="true">      <ul class="dropdown-menu dropdown-menu-sw">
         <li class="d-block d-md-none">
-          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:523744330,&quot;originating_url&quot;:&quot;https://github.com/Varunmr88/tidydata-project/blob/main/README.md&quot;,&quot;user_id&quot;:109435634}}" data-hydro-click-hmac="6a2592947e8db7cd776cf2591c244cda884d85cfcb1757d38ff00b9da18ab0b2" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/Varunmr88/tidydata-project/find/main">
+          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:73604117,&quot;originating_url&quot;:&quot;https://github.com/uludagy/GettingandCleaningData/blob/master/README.md&quot;,&quot;user_id&quot;:109435634}}" data-hydro-click-hmac="4d18eefdde5274f38ce9c254adae3f6998b79491fae9217e399961ec730282bb" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/uludagy/GettingandCleaningData/find/master">
             <span class="flex-auto">Go to file</span>
             <span class="text-small color-fg-muted" aria-hidden="true">T</span>
 </a>        </li>
@@ -2452,7 +2415,7 @@
 
 </clipboard-copy>        </li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/Varunmr88/tidydata-project/blob/7a0019e7029d0b2e272ac02c75d79c78cd9e7926/README.md" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/uludagy/GettingandCleaningData/blob/06227622d9b9e8d4684072b11701a961f8c2a528/README.md" data-view-component="true" class="dropdown-item cursor-pointer">
     
             <span class="d-flex flex-items-baseline">
               <span class="flex-auto">Copy permalink</span>
@@ -2481,10 +2444,10 @@
   
 </div></div>
 
-    <include-fragment src="/Varunmr88/tidydata-project/spoofed_commit_check/7a0019e7029d0b2e272ac02c75d79c78cd9e7926" data-test-selector="spoofed-commit-check"></include-fragment>
+    <include-fragment src="/uludagy/GettingandCleaningData/spoofed_commit_check/06227622d9b9e8d4684072b11701a961f8c2a528" data-test-selector="spoofed-commit-check"></include-fragment>
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-  <include-fragment src="/Varunmr88/tidydata-project/contributors/main/README.md" class="commit-loader">
+  <include-fragment src="/uludagy/GettingandCleaningData/contributors/master/README.md" class="commit-loader">
     <div class="Box-header d-flex flex-items-center">
       <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
       <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
@@ -2518,8 +2481,8 @@
 
       <details
   data-target="readme-toc.trigger"
-  data-menu-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;trigger&quot;,&quot;repository_id&quot;:523744330,&quot;originating_url&quot;:&quot;https://github.com/Varunmr88/tidydata-project/blob/main/README.md&quot;,&quot;user_id&quot;:109435634}}"
-  data-menu-hydro-click-hmac="7b1e00246ccf22cfb942a4cd41f997ff6e76ed280ba53a6f3a33e09dbc46df20"
+  data-menu-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;trigger&quot;,&quot;repository_id&quot;:73604117,&quot;originating_url&quot;:&quot;https://github.com/uludagy/GettingandCleaningData/blob/master/README.md&quot;,&quot;user_id&quot;:109435634}}"
+  data-menu-hydro-click-hmac="94096475ae25f8f35cc1379d82c29f2f44803956c5296286fd825203021067d9"
   class="dropdown details-reset details-overlay"
 >
   <summary
@@ -2535,37 +2498,10 @@
   <details-menu class="SelectMenu" role="menu">
     <div class="SelectMenu-modal rounded-3 mt-1" style="max-height:340px;">
 
-        <div class="SelectMenu-filter">
-          <input
-            class="SelectMenu-input form-control js-filterable-field"
-            id="toc-filter-field"
-            type="text"
-            autocomplete="off"
-            spellcheck="false"
-            autofocus
-            placeholder="Filter headings"
-            aria-label="Filter headings">
-        </div>
 
-      <div class="SelectMenu-list SelectMenu-list--borderless p-2" style="overscroll-behavior: contain;" data-filterable-for="toc-filter-field" data-filterable-type="substring">
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 text-emphasized" style="-webkit-box-orient: vertical; padding-left: 12px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:523744330,&quot;originating_url&quot;:&quot;https://github.com/Varunmr88/tidydata-project/blob/main/README.md&quot;,&quot;user_id&quot;:109435634}}" data-hydro-click-hmac="e972e3ff1ba5e26847ffa3b2e6b7388daac2c64c6b896b37aa83fd65ba575c44" href="#tidydata-project">tidydata-project</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:523744330,&quot;originating_url&quot;:&quot;https://github.com/Varunmr88/tidydata-project/blob/main/README.md&quot;,&quot;user_id&quot;:109435634}}" data-hydro-click-hmac="e972e3ff1ba5e26847ffa3b2e6b7388daac2c64c6b896b37aa83fd65ba575c44" href="#course-project-for-getting-and-cleaning-data-coursera">Course Project for Getting and Cleaning Data Coursera.</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:523744330,&quot;originating_url&quot;:&quot;https://github.com/Varunmr88/tidydata-project/blob/main/README.md&quot;,&quot;user_id&quot;:109435634}}" data-hydro-click-hmac="e972e3ff1ba5e26847ffa3b2e6b7388daac2c64c6b896b37aa83fd65ba575c44" href="#summary">Summary</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 48px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:523744330,&quot;originating_url&quot;:&quot;https://github.com/Varunmr88/tidydata-project/blob/main/README.md&quot;,&quot;user_id&quot;:109435634}}" data-hydro-click-hmac="e972e3ff1ba5e26847ffa3b2e6b7388daac2c64c6b896b37aa83fd65ba575c44" href="#1-a-tidy-data-set-as-described-below">1. a tidy data set as described below,</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 48px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:523744330,&quot;originating_url&quot;:&quot;https://github.com/Varunmr88/tidydata-project/blob/main/README.md&quot;,&quot;user_id&quot;:109435634}}" data-hydro-click-hmac="e972e3ff1ba5e26847ffa3b2e6b7388daac2c64c6b896b37aa83fd65ba575c44" href="#2-a-link-to-a-github-repository-with-your-script-for-performing-the-analysis-and">2. a link to a Github repository with your script for performing the analysis, and</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 48px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:523744330,&quot;originating_url&quot;:&quot;https://github.com/Varunmr88/tidydata-project/blob/main/README.md&quot;,&quot;user_id&quot;:109435634}}" data-hydro-click-hmac="e972e3ff1ba5e26847ffa3b2e6b7388daac2c64c6b896b37aa83fd65ba575c44" href="#3-a-code-book-that-describes-the-variables">3. a code book that describes the variables,</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:523744330,&quot;originating_url&quot;:&quot;https://github.com/Varunmr88/tidydata-project/blob/main/README.md&quot;,&quot;user_id&quot;:109435634}}" data-hydro-click-hmac="e972e3ff1ba5e26847ffa3b2e6b7388daac2c64c6b896b37aa83fd65ba575c44" href="#you-should-create-one-r-script-called-run_analysisr-that-does-the-following">You should create one R script called run_analysis.R that does the following.</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 text-emphasized" style="-webkit-box-orient: vertical; padding-left: 12px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:523744330,&quot;originating_url&quot;:&quot;https://github.com/Varunmr88/tidydata-project/blob/main/README.md&quot;,&quot;user_id&quot;:109435634}}" data-hydro-click-hmac="e972e3ff1ba5e26847ffa3b2e6b7388daac2c64c6b896b37aa83fd65ba575c44" href="#details-of-the-code">Details of the code.</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:523744330,&quot;originating_url&quot;:&quot;https://github.com/Varunmr88/tidydata-project/blob/main/README.md&quot;,&quot;user_id&quot;:109435634}}" data-hydro-click-hmac="e972e3ff1ba5e26847ffa3b2e6b7388daac2c64c6b896b37aa83fd65ba575c44" href="#loading-necessary-packages">Loading necessary packages.</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:523744330,&quot;originating_url&quot;:&quot;https://github.com/Varunmr88/tidydata-project/blob/main/README.md&quot;,&quot;user_id&quot;:109435634}}" data-hydro-click-hmac="e972e3ff1ba5e26847ffa3b2e6b7388daac2c64c6b896b37aa83fd65ba575c44" href="#importing-the-text-files-into-resective-data-frames">Importing the text files into resective data frames.</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:523744330,&quot;originating_url&quot;:&quot;https://github.com/Varunmr88/tidydata-project/blob/main/README.md&quot;,&quot;user_id&quot;:109435634}}" data-hydro-click-hmac="e972e3ff1ba5e26847ffa3b2e6b7388daac2c64c6b896b37aa83fd65ba575c44" href="#checking-the-dimensions-of-dataframes">checking the dimensions of dataframes</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:523744330,&quot;originating_url&quot;:&quot;https://github.com/Varunmr88/tidydata-project/blob/main/README.md&quot;,&quot;user_id&quot;:109435634}}" data-hydro-click-hmac="e972e3ff1ba5e26847ffa3b2e6b7388daac2c64c6b896b37aa83fd65ba575c44" href="#merging-the-dataframes-of-test-and-training">Merging the dataframes of test and training</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:523744330,&quot;originating_url&quot;:&quot;https://github.com/Varunmr88/tidydata-project/blob/main/README.md&quot;,&quot;user_id&quot;:109435634}}" data-hydro-click-hmac="e972e3ff1ba5e26847ffa3b2e6b7388daac2c64c6b896b37aa83fd65ba575c44" href="#enaming-column-names-of-merged-test-and-train-data-using-feature-list">enaming column names of merged test and train data using feature list.</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:523744330,&quot;originating_url&quot;:&quot;https://github.com/Varunmr88/tidydata-project/blob/main/README.md&quot;,&quot;user_id&quot;:109435634}}" data-hydro-click-hmac="e972e3ff1ba5e26847ffa3b2e6b7388daac2c64c6b896b37aa83fd65ba575c44" href="#selection-of-column-names-containing-standard-deviation-or-mean">selection of column names containing standard deviation or mean.</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:523744330,&quot;originating_url&quot;:&quot;https://github.com/Varunmr88/tidydata-project/blob/main/README.md&quot;,&quot;user_id&quot;:109435634}}" data-hydro-click-hmac="e972e3ff1ba5e26847ffa3b2e6b7388daac2c64c6b896b37aa83fd65ba575c44" href="#combining-columns-of-activity-code-and-its-corresponding-names">Combining columns of activity code and its corresponding names.</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:523744330,&quot;originating_url&quot;:&quot;https://github.com/Varunmr88/tidydata-project/blob/main/README.md&quot;,&quot;user_id&quot;:109435634}}" data-hydro-click-hmac="e972e3ff1ba5e26847ffa3b2e6b7388daac2c64c6b896b37aa83fd65ba575c44" href="#merging-of-subject-detailsactivity-details-and-test-data-using-column-bind">Merging of subject details,activity details and test data using column bind.</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:523744330,&quot;originating_url&quot;:&quot;https://github.com/Varunmr88/tidydata-project/blob/main/README.md&quot;,&quot;user_id&quot;:109435634}}" data-hydro-click-hmac="e972e3ff1ba5e26847ffa3b2e6b7388daac2c64c6b896b37aa83fd65ba575c44" href="#changing-important-columns-names-for-better-comprehension">Changing important columns names for better comprehension.</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:523744330,&quot;originating_url&quot;:&quot;https://github.com/Varunmr88/tidydata-project/blob/main/README.md&quot;,&quot;user_id&quot;:109435634}}" data-hydro-click-hmac="e972e3ff1ba5e26847ffa3b2e6b7388daac2c64c6b896b37aa83fd65ba575c44" href="#tidying-set-according-to-personid-and-activity-name-via-mean-calculation">Tidying set according to personID and Activity Name via mean calculation.</a>
+      <div class="SelectMenu-list SelectMenu-list--borderless p-2" style="overscroll-behavior: contain;">
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 text-emphasized" style="-webkit-box-orient: vertical; padding-left: 12px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:73604117,&quot;originating_url&quot;:&quot;https://github.com/uludagy/GettingandCleaningData/blob/master/README.md&quot;,&quot;user_id&quot;:109435634}}" data-hydro-click-hmac="f0eb41cbaa60010f7dba582b357fb66c1b3576f22e376237959ac6466dc822f2" href="#gettingandcleaningdata">GettingandCleaningData</a>
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 text-emphasized" style="-webkit-box-orient: vertical; padding-left: 12px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:73604117,&quot;originating_url&quot;:&quot;https://github.com/uludagy/GettingandCleaningData/blob/master/README.md&quot;,&quot;user_id&quot;:109435634}}" data-hydro-click-hmac="f0eb41cbaa60010f7dba582b357fb66c1b3576f22e376237959ac6466dc822f2" href="#code-explanations">Code explanations</a>
       </div>
     </div>
   </details-menu>
@@ -2574,45 +2510,45 @@
 
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1">
 
-      97 lines (80 sloc)
+      85 lines (68 sloc)
       <span class="file-info-divider"></span>
-    3.9 KB
+    4.02 KB
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
         <div class="BtnGroup">
-      <a href="/Varunmr88/tidydata-project/blob/main/README.md?plain=1" data-permalink-href="/Varunmr88/tidydata-project/blob/7a0019e7029d0b2e272ac02c75d79c78cd9e7926/README.md?plain=1" aria-label="Display the source blob" data-view-component="true" class="source tooltipped tooltipped tooltipped-n  js-permalink-replaceable-link btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
+      <a href="/uludagy/GettingandCleaningData/blob/master/README.md?plain=1" data-permalink-href="/uludagy/GettingandCleaningData/blob/06227622d9b9e8d4684072b11701a961f8c2a528/README.md?plain=1" aria-label="Display the source blob" data-view-component="true" class="source tooltipped tooltipped tooltipped-n  js-permalink-replaceable-link btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
     <path fill-rule="evenodd" d="M4.72 3.22a.75.75 0 011.06 1.06L2.06 8l3.72 3.72a.75.75 0 11-1.06 1.06L.47 8.53a.75.75 0 010-1.06l4.25-4.25zm6.56 0a.75.75 0 10-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 101.06 1.06l4.25-4.25a.75.75 0 000-1.06l-4.25-4.25z"></path>
 </svg>
-</a>      <a href="/Varunmr88/tidydata-project/blob/main/README.md" data-permalink-href="/Varunmr88/tidydata-project/blob/7a0019e7029d0b2e272ac02c75d79c78cd9e7926/README.md" aria-label="Display the rendered blob" data-view-component="true" class="rendered tooltipped tooltipped tooltipped-n selected js-permalink-replaceable-link btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-file">
+</a>      <a href="/uludagy/GettingandCleaningData/blob/master/README.md" data-permalink-href="/uludagy/GettingandCleaningData/blob/06227622d9b9e8d4684072b11701a961f8c2a528/README.md" aria-label="Display the rendered blob" data-view-component="true" class="rendered tooltipped tooltipped tooltipped-n selected js-permalink-replaceable-link btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-file">
     <path fill-rule="evenodd" d="M3.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h9.5a.25.25 0 00.25-.25V6h-2.75A1.75 1.75 0 019 4.25V1.5H3.75zm6.75.062V4.25c0 .138.112.25.25.25h2.688a.252.252 0 00-.011-.013l-2.914-2.914a.272.272 0 00-.013-.011zM2 1.75C2 .784 2.784 0 3.75 0h6.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16h-9.5A1.75 1.75 0 012 14.25V1.75z"></path>
 </svg>
 </a>  </div>
 
 
     <div class="BtnGroup">
-        <a data-permalink-href="/Varunmr88/tidydata-project/raw/7a0019e7029d0b2e272ac02c75d79c78cd9e7926/README.md" href="/Varunmr88/tidydata-project/raw/main/README.md" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Raw
-</a>          <a data-permalink-href="/Varunmr88/tidydata-project/blame/7a0019e7029d0b2e272ac02c75d79c78cd9e7926/README.md" href="/Varunmr88/tidydata-project/blame/main/README.md" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Blame
+        <a data-permalink-href="/uludagy/GettingandCleaningData/raw/06227622d9b9e8d4684072b11701a961f8c2a528/README.md" href="/uludagy/GettingandCleaningData/raw/master/README.md" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Raw
+</a>          <a data-permalink-href="/uludagy/GettingandCleaningData/blame/06227622d9b9e8d4684072b11701a961f8c2a528/README.md" href="/uludagy/GettingandCleaningData/blame/master/README.md" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Blame
 </a>    </div>
 
     <div class="d-flex">
         
 <div class="ml-1" data-test-selector="edit-dropdown-menu-component">
-  <form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/Varunmr88/tidydata-project/edit/main/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="bp8wflKzqKpyHdxvYP8g3ApEn9mtDu4mCA4sbPZOZhiMGQ94Ln7tALQl6qJsjkI-sC72jDG0Sx6-nsPKeMqycA" autocomplete="off" />
-      <button title="Edit this file" data-hotkey="e" data-disable-with="" data-test-selector="edit-icon-button" type="submit" data-view-component="true" class="btn-sm BtnGroup-item btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
+  <form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/uludagy/GettingandCleaningData/edit/master/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="7J8lSrfh3hsN1PqC-unCaZsFfXIoKfhwblPJww16_Hs213rGrWvwT5H9wRWNO0N_OpAqVecbnR03yhesqve_qQ" autocomplete="off" />
+      <button title="Edit the file in your fork of this project" data-hotkey="e" data-disable-with="" data-test-selector="edit-icon-button" type="submit" data-view-component="true" class="btn-sm BtnGroup-item btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
     <path fill-rule="evenodd" d="M11.013 1.427a1.75 1.75 0 012.474 0l1.086 1.086a1.75 1.75 0 010 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 01-.927-.928l.929-3.25a1.75 1.75 0 01.445-.758l8.61-8.61zm1.414 1.06a.25.25 0 00-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 000-.354l-1.086-1.086zM11.189 6.25L9.75 4.81l-6.286 6.287a.25.25 0 00-.064.108l-.558 1.953 1.953-.558a.249.249 0 00.108-.064l6.286-6.286z"></path>
 </svg>
 </button></form>
   <details class="details-reset details-overlay select-menu BtnGroup-parent d-inline-block position-relative">
-      <summary data-disable-invalid="" data-disable-with="" data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.more_options_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:523744330,&quot;actor_id&quot;:109435634,&quot;github_dev_enabled&quot;:true,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:false}}" aria-label="Select additional options" data-view-component="true" class="js-blob-dropdown-click select-menu-button btn-sm btn BtnGroup-item float-none px-2">
+      <summary data-disable-invalid="" data-disable-with="" data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.more_options_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:73604117,&quot;actor_id&quot;:109435634,&quot;github_dev_enabled&quot;:true,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:false}}" aria-label="Select additional options" data-view-component="true" class="js-blob-dropdown-click select-menu-button btn-sm btn BtnGroup-item float-none px-2">
 </summary>    <div class="SelectMenu right-0">
       <div class="SelectMenu-modal width-full">
         <div class="SelectMenu-list SelectMenu-list--borderless py-2">
-          <form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/Varunmr88/tidydata-project/edit/main/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="mBs6OxRQPA3NUJdCH0x4eEP7Sd723-tQZLYrf_Co_mt6nQU9aJ15pwtooY8TPRqa-ZEgi2plTmjSJsTZfiwqAw" autocomplete="off" />
-              <button title="Edit this file" data-test-selector="edit-text-button" type="submit" data-view-component="true" class="btn-invisible btn width-full d-flex flex-justify-between color-fg-default text-normal p-0">    <div class="mr-5">Edit this file</div>
+          <form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/uludagy/GettingandCleaningData/edit/master/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="A_1g4Sbr7eR30rK-eNP_f1_Zy_-vGHGu6xqbcyctYQDZtT9tPGHDsOv7iSkPAX5p_kyc2GAqFMOyg0UcgKAi0g" autocomplete="off" />
+              <button title="Edit the file in your fork of this project" data-test-selector="edit-text-button" type="submit" data-view-component="true" class="btn-invisible btn width-full d-flex flex-justify-between color-fg-default text-normal p-0">    <div class="mr-5">Edit this file</div>
               <div class="color-fg-muted">E</div>
 </button></form>
-            <a aria-label="Open this file in github.dev" data-test-selector="github-dev-link" data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.dev_link_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:523744330,&quot;actor_id&quot;:109435634,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:false}}" href="https://github.dev/" data-view-component="true" class="SelectMenu-item js-github-dev-shortcut js-blob-dropdown-click width-full d-flex flex-justify-between color-fg-default f5 text-normal">
+            <a aria-label="Open this file in github.dev" data-test-selector="github-dev-link" data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.dev_link_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:73604117,&quot;actor_id&quot;:109435634,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:false}}" href="https://github.dev/" data-view-component="true" class="SelectMenu-item js-github-dev-shortcut js-blob-dropdown-click width-full d-flex flex-justify-between color-fg-default f5 text-normal">
               <div class="mr-5 no-wrap">Open in github.dev</div>
               <div class="color-fg-muted">.</div>
 </a>
@@ -2627,10 +2563,10 @@
 
         
 <div data-test-selector="remote-clipboard-copy">
-  <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/Varunmr88/tidydata-project/raw/main/README.md" data-action="click:remote-clipboard-copy#remoteCopy">
+  <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/uludagy/GettingandCleaningData/raw/master/README.md" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-  <span data-target="remote-clipboard-copy.idle">      <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:523744330,&quot;originating_url&quot;:&quot;https://github.com/Varunmr88/tidydata-project/blob/main/README.md&quot;,&quot;user_id&quot;:109435634}}" data-hydro-click-hmac="de1a2aebdf6ad53f979acf20146a931e07084dee2038d4069b64d7f2eec1b7f3" aria-label="Copy raw contents">
+  <span data-target="remote-clipboard-copy.idle">      <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:73604117,&quot;originating_url&quot;:&quot;https://github.com/uludagy/GettingandCleaningData/blob/master/README.md&quot;,&quot;user_id&quot;:109435634}}" data-hydro-click-hmac="a5821f96da31674852971644875cc1b962882eb44dbfd9d303f81dbb24168210" aria-label="Copy raw contents">
         <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy">
     <path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path>
 </svg>
@@ -2655,9 +2591,9 @@
 </remote-clipboard-copy></div>
 
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/Varunmr88/tidydata-project/delete/main/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="INvpjnKsqCuguqnGv5jOEdmt4czibzMBqp1QDzKeSMqepdE46iqF6zLGHoekQbQ_aYt-r5VN2wv5aqAyhMuQFg" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/uludagy/GettingandCleaningData/delete/master/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="E6IwmrYtZT4nYTnclTlL0OCRrBsxySgVRXLj8PpWlTUN9exfPA7tjYOT9RPITmZ3YFAFEOhC2FN5lIupJcoKKA" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
-              aria-label="Delete this file" data-disable-with>
+              aria-label="Delete the file in your fork of this project" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash">
     <path fill-rule="evenodd" d="M6.5 1.75a.25.25 0 01.25-.25h2.5a.25.25 0 01.25.25V3h-3V1.75zm4.5 0V3h2.25a.75.75 0 010 1.5H2.75a.75.75 0 010-1.5H5V1.75C5 .784 5.784 0 6.75 0h2.5C10.216 0 11 .784 11 1.75zM4.496 6.675a.75.75 0 10-1.492.15l.66 6.6A1.75 1.75 0 005.405 15h5.19c.9 0 1.652-.681 1.741-1.576l.66-6.6a.75.75 0 00-1.492-.149l-.66 6.6a.25.25 0 01-.249.225h-5.19a.25.25 0 01-.249-.225l-.66-6.6z"></path>
 </svg>
@@ -2672,7 +2608,7 @@
           aria-haspopup="true"
           aria-label="possible actions"
           data-test-selector="small-screen-more-options"
-          data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.more_options_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:523744330,&quot;actor_id&quot;:109435634,&quot;github_dev_enabled&quot;:true,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:true}}"
+          data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.more_options_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:73604117,&quot;actor_id&quot;:109435634,&quot;github_dev_enabled&quot;:true,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:true}}"
         >
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal">
     <path d="M8 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM1.5 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zm13 0a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path>
@@ -2688,15 +2624,15 @@
                 </a>
             </li>
           <li>
-            <a class="dropdown-item" href="/Varunmr88/tidydata-project/raw/main/README.md">
+            <a class="dropdown-item" href="/uludagy/GettingandCleaningData/raw/master/README.md">
               View raw
             </a>
           </li>
             <li>
-              <remote-clipboard-copy class="dropdown-item" data-src="/Varunmr88/tidydata-project/raw/main/README.md" data-action="click:remote-clipboard-copy#remoteCopy">
+              <remote-clipboard-copy class="dropdown-item" data-src="/uludagy/GettingandCleaningData/raw/master/README.md" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:523744330,&quot;originating_url&quot;:&quot;https://github.com/Varunmr88/tidydata-project/blob/main/README.md&quot;,&quot;user_id&quot;:109435634}}" data-hydro-click-hmac="de1a2aebdf6ad53f979acf20146a931e07084dee2038d4069b64d7f2eec1b7f3">
+  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:73604117,&quot;originating_url&quot;:&quot;https://github.com/uludagy/GettingandCleaningData/blob/master/README.md&quot;,&quot;user_id&quot;:109435634}}" data-hydro-click-hmac="a5821f96da31674852971644875cc1b962882eb44dbfd9d303f81dbb24168210">
                     Copy raw contents
 </span></span>
   <span data-target="remote-clipboard-copy.fetching" hidden="hidden">                  Copy raw contents
@@ -2719,20 +2655,20 @@
 </span>
 </remote-clipboard-copy>            </li>
             <li>
-              <a class="dropdown-item" href="/Varunmr88/tidydata-project/blame/main/README.md">
+              <a class="dropdown-item" href="/uludagy/GettingandCleaningData/blame/master/README.md">
                 View blame
               </a>
             </li>
 
               <li class="dropdown-divider" role="none"></li>
               <li>
-                <a class="dropdown-item" href="/Varunmr88/tidydata-project/edit/main/README.md">Edit file</a>
+                <a class="dropdown-item" href="/uludagy/GettingandCleaningData/edit/master/README.md">Edit file</a>
               </li>
                 <li>
-                  <a class="dropdown-item js-github-dev-shortcut js-blob-dropdown-click" data-test-selector="small-screen-github-dev-link" data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.dev_link_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:523744330,&quot;actor_id&quot;:109435634,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:true}}" href="https://github.dev/">Open with github.dev</a>
+                  <a class="dropdown-item js-github-dev-shortcut js-blob-dropdown-click" data-test-selector="small-screen-github-dev-link" data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.dev_link_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:73604117,&quot;actor_id&quot;:109435634,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:true}}" href="https://github.dev/">Open with github.dev</a>
                 </li>
               <li>
-                <a class="dropdown-item menu-item-danger" href="/Varunmr88/tidydata-project/delete/main/README.md">Delete file</a>
+                <a class="dropdown-item menu-item-danger" href="/uludagy/GettingandCleaningData/delete/master/README.md">Delete file</a>
               </li>
         </ul>
       </details>
@@ -2741,110 +2677,89 @@
 
 
         <div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0">
-    <article class="markdown-body entry-content container-lg" itemprop="text"><h1 dir="auto"><a id="user-content-tidydata-project" class="anchor" aria-hidden="true" href="#tidydata-project"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>tidydata-project</h1>
-<h2 dir="auto"><a id="user-content-course-project-for-getting-and-cleaning-data-coursera" class="anchor" aria-hidden="true" href="#course-project-for-getting-and-cleaning-data-coursera"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Course Project for Getting and Cleaning Data Coursera.</h2>
-<h3 dir="auto"><a id="user-content-summary" class="anchor" aria-hidden="true" href="#summary"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Summary</h3>
-<p dir="auto">The purpose of this project is to demonstrate your ability to collect, work with, and clean a data set. The goal is to prepare tidy data that can be used for later analysis. You will be graded by your peers on a series of yes/no questions related to the project. You will be required to submit:</p>
-<h4 dir="auto"><a id="user-content-1-a-tidy-data-set-as-described-below" class="anchor" aria-hidden="true" href="#1-a-tidy-data-set-as-described-below"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>1. a tidy data set as described below,</h4>
-<h4 dir="auto"><a id="user-content-2-a-link-to-a-github-repository-with-your-script-for-performing-the-analysis-and" class="anchor" aria-hidden="true" href="#2-a-link-to-a-github-repository-with-your-script-for-performing-the-analysis-and"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>2. a link to a Github repository with your script for performing the analysis, and</h4>
-<h4 dir="auto"><a id="user-content-3-a-code-book-that-describes-the-variables" class="anchor" aria-hidden="true" href="#3-a-code-book-that-describes-the-variables"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>3. a code book that describes the variables,</h4>
-<p dir="auto">the data, and any transformations or work that you performed to clean up the data called CodeBook.md. You should also include a README.md in the repo with your scripts. This repo explains how all of the scripts work and how they are connected.</p>
+    <article class="markdown-body entry-content container-lg" itemprop="text"><h1 dir="auto"><a id="user-content-gettingandcleaningdata" class="anchor" aria-hidden="true" href="#gettingandcleaningdata"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>GettingandCleaningData</h1>
+<blockquote>
+<p dir="auto">The purpose of this project is to demonstrate your ability to collect, work with, and clean a data set. The goal is to prepare tidy data that can be used for later analysis. You will be graded by your peers on a series of yes/no questions related to the project.You will be required to submit:</p>
+</blockquote>
+<ol dir="auto">
+<li>a tidy data set as described below</li>
+<li>a link to a Github repository with your script for performing the analysis</li>
+<li>codeBook.md that describes the variables, the data, and any work that you performed to clean up the data</li>
+<li>README.md that explains how all of the scripts work and how they are connected.</li>
+</ol>
+<blockquote>
 <p dir="auto">One of the most exciting areas in all of data science right now is wearable computing - see for example this article . Companies like Fitbit, Nike, and Jawbone Up are racing to develop the most advanced algorithms to attract new users. The data linked to from the course website represent data collected from the accelerometers from the Samsung Galaxy S smartphone. A full description is available at the site where the data was obtained:</p>
 <p dir="auto"><a href="http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones" rel="nofollow">http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones</a></p>
+</blockquote>
+<blockquote>
 <p dir="auto">Here are the data for the project:</p>
+</blockquote>
+<blockquote>
 <p dir="auto"><a href="https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip" rel="nofollow">https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip</a></p>
-<h3 dir="auto"><a id="user-content-you-should-create-one-r-script-called-run_analysisr-that-does-the-following" class="anchor" aria-hidden="true" href="#you-should-create-one-r-script-called-run_analysisr-that-does-the-following"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>You should create one R script called run_analysis.R that does the following.</h3>
-<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="  1. Merges the training and the test sets to create one data set.
-
-  2. Extracts only the measurements on the mean and standard deviation for each measurement. 
-
-  3. Uses descriptive activity names to name the activities in the data set
-
-  4. Appropriately labels the data set with descriptive variable names. 
-
-  5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject."><pre class="notranslate"><code>  1. Merges the training and the test sets to create one data set.
-
-  2. Extracts only the measurements on the mean and standard deviation for each measurement. 
-
-  3. Uses descriptive activity names to name the activities in the data set
-
-  4. Appropriately labels the data set with descriptive variable names. 
-
-  5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
-</code></pre></div>
-<h1 dir="auto"><a id="user-content-details-of-the-code" class="anchor" aria-hidden="true" href="#details-of-the-code"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Details of the code.</h1>
-<h3 dir="auto"><a id="user-content-loading-necessary-packages" class="anchor" aria-hidden="true" href="#loading-necessary-packages"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Loading necessary packages.</h3>
-<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="library(tidyverse)  
-library(dplyr)  
-library(readr)"><pre class="notranslate"><code>library(tidyverse)  
-library(dplyr)  
-library(readr)
-</code></pre></div>
-<h3 dir="auto"><a id="user-content-importing-the-text-files-into-resective-data-frames" class="anchor" aria-hidden="true" href="#importing-the-text-files-into-resective-data-frames"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Importing the text files into resective data frames.</h3>
-<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="features &lt;- read.csv(&quot;features.txt&quot;, sep = &quot;&quot;, header = FALSE)
-activities &lt;- read.csv(&quot;activity_labels.txt&quot;, sep = &quot;&quot;, header = FALSE)
-xtest &lt;- read.csv(&quot;./test/X_test.txt&quot;, sep = &quot;&quot;, header = FALSE)
-xtrain &lt;- read.csv(&quot;./train/X_train.txt&quot;, sep = &quot;&quot;, header = FALSE)
-ytest &lt;- read.csv(&quot;./test/y_test.txt&quot;, sep = &quot;&quot;, header = FALSE)
-ytrain &lt;- read.csv(&quot;./train/y_train.txt&quot;, sep = &quot;&quot;, header = FALSE)
-subtest &lt;- read.csv(&quot;./test/subject_test.txt&quot;, sep = &quot;&quot;, header = FALSE)
-subtrain &lt;- read.csv(&quot;./train/subject_train.txt&quot;, sep = &quot;&quot;, header = FALSE)"><pre class="notranslate"><code>features &lt;- read.csv("features.txt", sep = "", header = FALSE)
-activities &lt;- read.csv("activity_labels.txt", sep = "", header = FALSE)
-xtest &lt;- read.csv("./test/X_test.txt", sep = "", header = FALSE)
-xtrain &lt;- read.csv("./train/X_train.txt", sep = "", header = FALSE)
-ytest &lt;- read.csv("./test/y_test.txt", sep = "", header = FALSE)
-ytrain &lt;- read.csv("./train/y_train.txt", sep = "", header = FALSE)
-subtest &lt;- read.csv("./test/subject_test.txt", sep = "", header = FALSE)
-subtrain &lt;- read.csv("./train/subject_train.txt", sep = "", header = FALSE)
-</code></pre></div>
-<h3 dir="auto"><a id="user-content-checking-the-dimensions-of-dataframes" class="anchor" aria-hidden="true" href="#checking-the-dimensions-of-dataframes"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>checking the dimensions of dataframes</h3>
-<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="dim(features)
-dim(activities)
-dim(xtest)
-dim(xtrain)
-dim(ytest)
-dim(ytrain)
-dim(subtest)
-dim(subtrain)"><pre class="notranslate"><code>dim(features)
-dim(activities)
-dim(xtest)
-dim(xtrain)
-dim(ytest)
-dim(ytrain)
-dim(subtest)
-dim(subtrain)
-</code></pre></div>
-<h3 dir="auto"><a id="user-content-merging-the-dataframes-of-test-and-training" class="anchor" aria-hidden="true" href="#merging-the-dataframes-of-test-and-training"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Merging the dataframes of test and training</h3>
-<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="mergedx &lt;- rbind(xtest,xtrain)
-mergedy  &lt;- rbind(ytest,ytrain)
-mergedsub &lt;- rbind(subtest,subtrain)"><pre class="notranslate"><code>mergedx &lt;- rbind(xtest,xtrain)
-mergedy  &lt;- rbind(ytest,ytrain)
-mergedsub &lt;- rbind(subtest,subtrain)
-</code></pre></div>
-<h3 dir="auto"><a id="user-content-enaming-column-names-of-merged-test-and-train-data-using-feature-list" class="anchor" aria-hidden="true" href="#enaming-column-names-of-merged-test-and-train-data-using-feature-list"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>enaming column names of merged test and train data using feature list.</h3>
-<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="names(mergedx) &lt;- features[ ,2]"><pre class="notranslate"><code>names(mergedx) &lt;- features[ ,2]
-</code></pre></div>
-<h3 dir="auto"><a id="user-content-selection-of-column-names-containing-standard-deviation-or-mean" class="anchor" aria-hidden="true" href="#selection-of-column-names-containing-standard-deviation-or-mean"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>selection of column names containing standard deviation or mean.</h3>
-<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="mergedx &lt;- mergedx[ grepl(&quot;std|mean&quot;, names(mergedx), ignore.case = TRUE) ] 
-dim(mergedx)"><pre class="notranslate"><code>mergedx &lt;- mergedx[ grepl("std|mean", names(mergedx), ignore.case = TRUE) ] 
-dim(mergedx)
-</code></pre></div>
-<h3 dir="auto"><a id="user-content-combining-columns-of-activity-code-and-its-corresponding-names" class="anchor" aria-hidden="true" href="#combining-columns-of-activity-code-and-its-corresponding-names"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Combining columns of activity code and its corresponding names.</h3>
-<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="mergedy&lt;- full_join(mergedy,activities,by=&quot;V1&quot;)"><pre class="notranslate"><code>mergedy&lt;- full_join(mergedy,activities,by="V1")
-</code></pre></div>
-<h3 dir="auto"><a id="user-content-merging-of-subject-detailsactivity-details-and-test-data-using-column-bind" class="anchor" aria-hidden="true" href="#merging-of-subject-detailsactivity-details-and-test-data-using-column-bind"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Merging of subject details,activity details and test data using column bind.</h3>
-<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="mergedx &lt;- cbind(mergedsub, mergedy, mergedx)"><pre class="notranslate"><code>mergedx &lt;- cbind(mergedsub, mergedy, mergedx)
-</code></pre></div>
-<h3 dir="auto"><a id="user-content-changing-important-columns-names-for-better-comprehension" class="anchor" aria-hidden="true" href="#changing-important-columns-names-for-better-comprehension"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Changing important columns names for better comprehension.</h3>
-<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="names(mergedx)[1:3] &lt;- c(&quot;PersonID&quot;, &quot;ActivityCode&quot;,&quot;ActivityName&quot;)"><pre class="notranslate"><code>names(mergedx)[1:3] &lt;- c("PersonID", "ActivityCode","ActivityName")
-</code></pre></div>
-<h3 dir="auto"><a id="user-content-tidying-set-according-to-personid-and-activity-name-via-mean-calculation" class="anchor" aria-hidden="true" href="#tidying-set-according-to-personid-and-activity-name-via-mean-calculation"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Tidying set according to personID and Activity Name via mean calculation.</h3>
-<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="group_by(mergedx, PersonID, ActivityName) %&gt;%
-  summarise_each(funs(mean))
-write_csv(mergedx, &quot;./tidy data.csv&quot;) "><pre class="notranslate"><code>group_by(mergedx, PersonID, ActivityName) %&gt;%
-  summarise_each(funs(mean))
-write_csv(mergedx, "./tidy data.csv") 
-</code></pre></div>
+<p dir="auto">You should create one R script called run_analysis.R that does the following.</p>
+<ol dir="auto">
+<li>Merges the training and the test sets to create one data set.</li>
+<li>Extracts only the measurements on the mean and standard deviation for each measurement.</li>
+<li>Uses descriptive activity names to name the activities in the data set.</li>
+<li>Appropriately labels the data set with descriptive activity names.</li>
+<li>Creates a second, independent tidy data set with the average of each variable for each activity and each subject.</li>
+</ol>
+<p dir="auto">Good luck!</p>
+</blockquote>
+<h1 dir="auto"><a id="user-content-code-explanations" class="anchor" aria-hidden="true" href="#code-explanations"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Code explanations</h1>
+<p dir="auto">*We applied all same read format to the files. We used <strong>sep=""</strong> cause given file format seperated like that. And also <strong>header=FALSE</strong>, just dont want to lose first row of data. If its true, first row would be column names which we dont want to.</p>
+<p dir="auto">Reads these two file from <strong>UCI HAR Dataset</strong> and takes sensitive data. For activitiy labels first column includes rownumber which is unneccesary.</p>
+<div class="highlight highlight-source-r notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="   ##Reading Features and ActivityLabels vector
+   features &lt;- read.csv(&quot;features.txt&quot;, sep = &quot;&quot;, header = FALSE)[2]
+   activities &lt;- read.csv(&quot;activity_labels.txt&quot;, sep = &quot;&quot;, header = FALSE)"><pre>   <span class="pl-c"><span class="pl-c">#</span>#Reading Features and ActivityLabels vector</span>
+   <span class="pl-smi">features</span> <span class="pl-k">&lt;-</span> read.csv(<span class="pl-s"><span class="pl-pds">"</span>features.txt<span class="pl-pds">"</span></span>, <span class="pl-v">sep</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">"</span><span class="pl-pds">"</span></span>, <span class="pl-v">header</span> <span class="pl-k">=</span> <span class="pl-c1">FALSE</span>)[<span class="pl-c1">2</span>]
+   <span class="pl-smi">activities</span> <span class="pl-k">&lt;-</span> read.csv(<span class="pl-s"><span class="pl-pds">"</span>activity_labels.txt<span class="pl-pds">"</span></span>, <span class="pl-v">sep</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">"</span><span class="pl-pds">"</span></span>, <span class="pl-v">header</span> <span class="pl-k">=</span> <span class="pl-c1">FALSE</span>)</pre></div>
+<p dir="auto">Again reads from same location and combine test and train set with <strong>rbind</strong> function.</p>
+<div class="highlight highlight-source-r notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="   ##Reading Sets
+   testSet &lt;- read.csv(&quot;test/X_test.txt&quot;, sep = &quot;&quot;, header = FALSE)
+   trainSet &lt;- read.csv(&quot;train/X_train.txt&quot;, sep = &quot;&quot;, header = FALSE)
+   mergedSet &lt;- rbind(testSet,trainSet)        "><pre>   <span class="pl-c"><span class="pl-c">#</span>#Reading Sets</span>
+   <span class="pl-smi">testSet</span> <span class="pl-k">&lt;-</span> read.csv(<span class="pl-s"><span class="pl-pds">"</span>test/X_test.txt<span class="pl-pds">"</span></span>, <span class="pl-v">sep</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">"</span><span class="pl-pds">"</span></span>, <span class="pl-v">header</span> <span class="pl-k">=</span> <span class="pl-c1">FALSE</span>)
+   <span class="pl-smi">trainSet</span> <span class="pl-k">&lt;-</span> read.csv(<span class="pl-s"><span class="pl-pds">"</span>train/X_train.txt<span class="pl-pds">"</span></span>, <span class="pl-v">sep</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">"</span><span class="pl-pds">"</span></span>, <span class="pl-v">header</span> <span class="pl-k">=</span> <span class="pl-c1">FALSE</span>)
+   <span class="pl-smi">mergedSet</span> <span class="pl-k">&lt;-</span> rbind(<span class="pl-smi">testSet</span>,<span class="pl-smi">trainSet</span>)        </pre></div>
+<p dir="auto">Same exact things with previous step</p>
+<div class="highlight highlight-source-r notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="   ##Reading Movement
+   testMoves &lt;- read.csv(&quot;test/Y_test.txt&quot;, sep = &quot;&quot;, header = FALSE)
+   trainMoves &lt;- read.csv(&quot;train/Y_train.txt&quot;, sep = &quot;&quot;, header = FALSE)
+   mergedMoves &lt;- rbind(testMoves, trainMoves)
+      
+   ##Reading PersonID
+   testPerson &lt;- read.csv(&quot;test/subject_test.txt&quot;, sep = &quot;&quot;, header = FALSE)
+   trainPerson &lt;- read.csv(&quot;train/subject_train.txt&quot;, sep = &quot;&quot;, header = FALSE)
+   mergedPerson &lt;- rbind(testPerson, trainPerson)"><pre>   <span class="pl-c"><span class="pl-c">#</span>#Reading Movement</span>
+   <span class="pl-smi">testMoves</span> <span class="pl-k">&lt;-</span> read.csv(<span class="pl-s"><span class="pl-pds">"</span>test/Y_test.txt<span class="pl-pds">"</span></span>, <span class="pl-v">sep</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">"</span><span class="pl-pds">"</span></span>, <span class="pl-v">header</span> <span class="pl-k">=</span> <span class="pl-c1">FALSE</span>)
+   <span class="pl-smi">trainMoves</span> <span class="pl-k">&lt;-</span> read.csv(<span class="pl-s"><span class="pl-pds">"</span>train/Y_train.txt<span class="pl-pds">"</span></span>, <span class="pl-v">sep</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">"</span><span class="pl-pds">"</span></span>, <span class="pl-v">header</span> <span class="pl-k">=</span> <span class="pl-c1">FALSE</span>)
+   <span class="pl-smi">mergedMoves</span> <span class="pl-k">&lt;-</span> rbind(<span class="pl-smi">testMoves</span>, <span class="pl-smi">trainMoves</span>)
+      
+   <span class="pl-c"><span class="pl-c">#</span>#Reading PersonID</span>
+   <span class="pl-smi">testPerson</span> <span class="pl-k">&lt;-</span> read.csv(<span class="pl-s"><span class="pl-pds">"</span>test/subject_test.txt<span class="pl-pds">"</span></span>, <span class="pl-v">sep</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">"</span><span class="pl-pds">"</span></span>, <span class="pl-v">header</span> <span class="pl-k">=</span> <span class="pl-c1">FALSE</span>)
+   <span class="pl-smi">trainPerson</span> <span class="pl-k">&lt;-</span> read.csv(<span class="pl-s"><span class="pl-pds">"</span>train/subject_train.txt<span class="pl-pds">"</span></span>, <span class="pl-v">sep</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">"</span><span class="pl-pds">"</span></span>, <span class="pl-v">header</span> <span class="pl-k">=</span> <span class="pl-c1">FALSE</span>)
+   <span class="pl-smi">mergedPerson</span> <span class="pl-k">&lt;-</span> rbind(<span class="pl-smi">testPerson</span>, <span class="pl-smi">trainPerson</span>)</pre></div>
+<p dir="auto">Assigns real column attributes(decriptive column names) that is kept in features vector to mergedSet we have formed in previous steps. After that, select all columns that key values passing through this attributes</p>
+<div class="highlight highlight-source-r notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="   ##Extracting columns which includes measurements
+   names(mergedSet) &lt;- features[ ,1]
+   mergedSet &lt;- mergedSet[ grepl(&quot;std|mean&quot;, names(mergedSet), ignore.case = TRUE) ] "><pre>   <span class="pl-c"><span class="pl-c">#</span>#Extracting columns which includes measurements</span>
+   names(<span class="pl-smi">mergedSet</span>) <span class="pl-k">&lt;-</span> <span class="pl-smi">features</span>[ ,<span class="pl-c1">1</span>]
+   <span class="pl-smi">mergedSet</span> <span class="pl-k">&lt;-</span> <span class="pl-smi">mergedSet</span>[ grepl(<span class="pl-s"><span class="pl-pds">"</span>std|mean<span class="pl-pds">"</span></span>, names(<span class="pl-smi">mergedSet</span>), <span class="pl-v">ignore.case</span> <span class="pl-k">=</span> <span class="pl-c1">TRUE</span>) ] </pre></div>
+<p dir="auto">Descriptive values for activity columns.</p>
+<div class="highlight highlight-source-r notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="   #Descriptive ActivityName analysis
+   mergedMoves &lt;- merge(mergedMoves, activities, by.x = &quot;V1&quot;, by.y = &quot;V1&quot;)[2]
+   mergedSet &lt;- cbind(mergedPerson, mergedMoves, mergedSet)
+   names(mergedSet)[1:2] &lt;- c(&quot;PersonID&quot;, &quot;Activities&quot;)"><pre>   <span class="pl-c"><span class="pl-c">#</span>Descriptive ActivityName analysis</span>
+   <span class="pl-smi">mergedMoves</span> <span class="pl-k">&lt;-</span> merge(<span class="pl-smi">mergedMoves</span>, <span class="pl-smi">activities</span>, <span class="pl-v">by.x</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">"</span>V1<span class="pl-pds">"</span></span>, <span class="pl-v">by.y</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">"</span>V1<span class="pl-pds">"</span></span>)[<span class="pl-c1">2</span>]
+   <span class="pl-smi">mergedSet</span> <span class="pl-k">&lt;-</span> cbind(<span class="pl-smi">mergedPerson</span>, <span class="pl-smi">mergedMoves</span>, <span class="pl-smi">mergedSet</span>)
+   names(<span class="pl-smi">mergedSet</span>)[<span class="pl-c1">1</span><span class="pl-k">:</span><span class="pl-c1">2</span>] <span class="pl-k">&lt;-</span> c(<span class="pl-s"><span class="pl-pds">"</span>PersonID<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>Activities<span class="pl-pds">"</span></span>)</pre></div>
+<p dir="auto">Tidying set according to personID and activities</p>
+<div class="highlight highlight-source-r notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="   ##Tidying mergedSet
+   group_by(mergedSet, PersonID, Activities) %&gt;%
+         summarise_each(funs(mean))"><pre>   <span class="pl-c"><span class="pl-c">#</span>#Tidying mergedSet</span>
+   group_by(<span class="pl-smi">mergedSet</span>, <span class="pl-smi">PersonID</span>, <span class="pl-smi">Activities</span>) %<span class="pl-k">&gt;</span>%
+         summarise_each(funs(<span class="pl-smi">mean</span>))</pre></div>
 </article>
   </div>
 
