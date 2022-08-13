@@ -39,7 +39,7 @@ dim(mergedx)
 # Combining columns of activity code and its corresponding names.
 mergedy<- full_join(mergedy,activities,by="V1")
 
-#Merging of subject details,acitvity details and test data using column bind.
+#Merging of subject details,activity details and test data using column bind.
 mergedx <- cbind(mergedsub, mergedy, mergedx)
 
 #Changing important columns names for better comprehension.
@@ -48,3 +48,4 @@ names(mergedx)[1:3] <- c("PersonID", "ActivityCode","ActivityName")
 #Tidying set according to personID and Activity Name via mean calculation.
 group_by(mergedx, PersonID, ActivityName) %>%
   summarise_each(funs(mean))
+write.table(mergedx, "./tidy data.txt",row.names = FALSE)
