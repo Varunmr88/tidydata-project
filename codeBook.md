@@ -49,14 +49,43 @@ The following files are available for the train and test data. Their description
 Notes: 
 ======
 - Features are normalized and bounded within [-1,1].
-- Each feature vector is a row on the text file.
+- Each feature vector is a row on the text file.   
 
+## R Code for creation of Code Book Table  
 
+```
+df1<-read.csv("tidy data.csv")
+library(tidyverse)
+make.codeBook <- function(set) {
+  df <- data.frame(
+    row.names = NULL,
+    column.names = names(set),
+    class = sapply(set, class),
+    range = sapply(set, function(x)
+      if (class(x) == "factor")
+        paste(levels(x), collapse = " / ")
+      else if (class(x) == "numeric" ||
+               class(x) == "integer")
+        paste(min(x), max(x), sep = "  /  ")
+      else
+        class(x)),
+    mean = sapply(set, function(x)
+      if (class(x) == "numeric")
+        mean(x)
+      else
+        "Not available")
+  )
+  write.table(df, "codeBook.md", sep = " | ")
+}
+make.codeBook(df1)
+```
+### Code Book Table
 
-"column.names" | "class" | "range" | "mean"
-"1" | "PersonID" | "integer" | "1  /  30" | "Not available"
-"2" | "ActivityCode" | "integer" | "1  /  6" | "Not available"
-"3" | "ActivityName" | "character" | "character" | "Not available"
+|"Sl.No"|"column.names" | "class" | "range" | "mean"|
+|-------|----------------|---------|---------|--------|
+|"1" | "PersonID" | "integer" | "1  /  30" | "Not available"
+|"2" | "ActivityCode" | "integer" | "1  /  6" | "Not available"
+"3" | "ActivityName" | "character" | "LAYING / SITTING / STANDING / WALKING / WALKING_DOWNSTAIRS / WALKING_UPSTAIRS" | "Not available"
 "4" | "tBodyAcc.mean...X" | "numeric" | "-1  /  1" | "0.274347260646063"
 "5" | "tBodyAcc.mean...Y" | "numeric" | "-1  /  1" | "-0.0177434918458972"
 "6" | "tBodyAcc.mean...Z" | "numeric" | "-1  /  1" | "-0.108925032737064"
