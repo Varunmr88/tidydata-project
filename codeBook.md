@@ -49,13 +49,13 @@ The following files are available for the train and test data. Their description
 Notes: 
 ======
 - Features are normalized and bounded within [-1,1].
-- Each feature vector is a row on the text file.
+- Each feature vector is a row on the text file. 
 
 
-
-"column.names" | "class" | "range" | "mean"
-"1" | "PersonID" | "integer" | "1  /  30" | "Not available"
-"2" | "ActivityCode" | "integer" | "1  /  6" | "Not available"
+|"Sl.No"|"column.names" | "class" | "range" | "mean"|
+|-------|----------------|---------|---------|--------|
+|"1" | "PersonID" | "integer" | "1  /  30" | "Not available"
+|"2" | "ActivityCode" | "integer" | "1  /  6" | "Not available"
 "3" | "ActivityName" | "character" | "character" | "Not available"
 "4" | "tBodyAcc.mean...X" | "numeric" | "-1  /  1" | "0.274347260646063"
 "5" | "tBodyAcc.mean...Y" | "numeric" | "-1  /  1" | "-0.0177434918458972"
